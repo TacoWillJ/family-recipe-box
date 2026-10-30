@@ -308,8 +308,8 @@
    "id": "009",
    "title": "Old Time Cottage Cheese Cookies",
    "category": "Cookies",
-   "format": "Handwritten note",
-   "contributor": "Tammy Jones (likely)",
+   "format": "Handwritten note (Vision \"thought pad\" notepad)",
+   "contributor": "Tammy Jones",
    "yield": "6 or more dozen (end of number is stained)",
    "photos": [
     {
@@ -344,7 +344,7 @@
     "Bake at 350° for about 10 minutes (best guess; time is stained)."
    ],
    "notes": [
-    "Written on a notepad from William's work, so most likely Tammy's. Her newer cards sit at the front of the box.",
+    "Tammy's, on her Vision \"thought pad\" notepad paper.",
     "\"Add nuts\" was squeezed into the margin beside the mixing step.",
     "Rolled in powdered sugar, these bake up like chocolate crinkle cookies.",
     "A recipe online matches this one almost exactly at half size (same flour, cocoa, cottage cheese, eggs, vanilla, leaveners and nuts), which backs up the readings above."
@@ -1742,7 +1742,11 @@
    "photos": [
     {
      "src": "img/046-oatmeal-choc-chip-cake.jpg",
-     "label": "Card"
+     "label": "Front"
+    },
+    {
+     "src": "img/046-oatmeal-choc-chip-cake-back.jpg",
+     "label": "Back (found later in the box)"
     }
    ],
    "ingredients": [
@@ -1756,15 +1760,15 @@
     "1 tsp. soda",
     "1/2 tsp. salt",
     "1 tbsp. cocoa",
-    "Chocolate chips",
+    "1/2 pkg. chocolate chips, plus more for the top",
     "3/4 c. nuts"
    ],
    "steps": [
     "Mix the boiling water and oats and let sit 10 minutes.",
     "Add the brown sugar, sugar and margarine and stir until the margarine melts.",
     "Add the eggs.",
-    "Mix the flour, soda, salt and cocoa and add to the batter.",
-    "Pour into a greased pan and sprinkle the chocolate chips and nuts over the top.",
+    "Mix the flour, soda, salt and cocoa and add to the batter. Add 1/2 package of chocolate chips.",
+    "Pour into a 9x13 pan and sprinkle chips and nuts on top.",
     "Bake at 350° for 40 minutes."
    ],
    "notes": [
@@ -1772,8 +1776,7 @@
     "Credited to Ann Caldwell at the top of the card."
    ],
    "flags": [
-    "No pan size on the card; a 9x13 pan is typical for this cake.",
-    "No amount for the chocolate chips; about 1 cup is typical."
+    "The back turned up loose in a later batch; matched to this card by handwriting and the chips-and-nuts topping."
    ]
   },
   {
@@ -2754,6 +2757,1316 @@
    "notes": [
     "From an email by Jean Jones, William's mom, which William forwarded to his daughter in July 2019.",
     "In her words: \"I just play with it till it tastes right. Hope it turns out.\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "074",
+   "title": "Ranch Pork Chops or Chicken",
+   "category": "Main Dishes",
+   "format": "Handwritten note on lined paper",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/074-pork-chops-and-dips.jpg",
+     "label": "The note (shared with the 4 Layer Dip)"
+    }
+   ],
+   "ingredients": [
+    "Pork chops or chicken",
+    "1 can cream of chicken soup",
+    "1 can chicken stock",
+    "1 pkg. Hidden Valley Ranch seasoning",
+    "Chicken broth, enough to cover the meat"
+   ],
+   "steps": [
+    "Put the meat in the slow cooker with the soup, stock and ranch seasoning.",
+    "Add enough chicken broth to cover the meat.",
+    "Cook on low 4 to 8 hours, or on high for 4 hours."
+   ],
+   "notes": [
+    "In Tammy's handwriting.",
+    "No title on the note; named here from the ingredients.",
+    "Written on a notepad page; the 4 Layer Dip is on the same sheet."
+   ],
+   "flags": [
+    "A word before \"stock\" is scribbled out (maybe \"broth\").",
+    "The low-setting time reads \"4 8 hours\"; could be 4 to 8 or 6 to 8.",
+    "The note never says slow cooker, but \"cook on low / on high\" points to one."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "075",
+   "title": "4 Layer Dip",
+   "category": "Appetizers",
+   "format": "Handwritten note on lined paper",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/074-pork-chops-and-dips.jpg",
+     "label": "The note (shared with Ranch Pork Chops)"
+    }
+   ],
+   "ingredients": [
+    "1/2 cup Miracle Whip",
+    "1/2 cup sour cream",
+    "1 pk. taco seasoning",
+    "2 cans Frito bean dip",
+    "Salsa",
+    "Cheddar cheese"
+   ],
+   "steps": [
+    "Mix the Miracle Whip, sour cream and taco seasoning. Put in the fridge overnight.",
+    "Layer in a dish: bean dip, the sour cream mixture, salsa, then cheddar cheese on top."
+   ],
+   "notes": [
+    "In Tammy's handwriting.",
+    "Written on the same sheet as the pork chop recipe."
+   ],
+   "flags": [
+    "The note doesn't give the layer order; bean dip, cream, salsa, cheese is the usual one.",
+    "The bean dip, salsa and cheese are listed a few lines below the dip, so they may have been meant as a separate list."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "076",
+   "title": "Italian Meat Loaf",
+   "category": "Main Dishes",
+   "format": "Printed \"Here's what's cookin'\" card, front and back",
+   "contributor": "Miriam B. Lao",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/076-italian-meat-loaf-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/076-italian-meat-loaf-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 lbs. ground meat",
+    "1 egg, beaten",
+    "3/4 cup cracker crumbs",
+    "1/2 cup chopped onion",
+    "1 teaspoon salt",
+    "1/3 cup tomato sauce",
+    "1/2 teaspoon oregano",
+    "1/4 teaspoon pepper",
+    "2 cups grated mozzarella cheese",
+    "2/3 cup tomato sauce (for the top)"
+   ],
+   "steps": [
+    "Combine the meat, egg, cracker crumbs, onion, the 1/3 cup tomato sauce, salt, oregano and pepper.",
+    "Shape into a 10\" x 12\" rectangle on waxed paper. Sprinkle with the cheese.",
+    "Roll up and press the ends to seal. Place in a shallow pan.",
+    "Bake 1 hour at 350°.",
+    "Pour the 2/3 cup sauce over the top and bake another 15 minutes."
+   ],
+   "notes": [
+    "A rolled meat loaf with mozzarella spiraled through the middle."
+   ],
+   "flags": [
+    "Contributor's last name is hard to read: \"Lao\", \"Loo\" or \"Leo\"."
+   ],
+   "yield": "Serves 6"
+  },
+  {
+   "id": "077",
+   "title": "Oven-Fried Chicken",
+   "category": "Main Dishes",
+   "format": "Newspaper clipping on a lined card",
+   "contributor": "Newspaper clipping",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/077-oven-fried-chicken.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 frying chicken, cut up",
+    "1 egg, slightly beaten",
+    "1/3 cup milk",
+    "1 cup fine dry bread crumbs",
+    "1 teaspoon salt",
+    "1/2 teaspoon Accent",
+    "1/4 teaspoon pepper",
+    "1 teaspoon paprika, optional",
+    "1/3 cup butter"
+   ],
+   "steps": [
+    "Mix the egg and milk. Dip each piece of chicken in it, then in the crumbs mixed with the seasonings.",
+    "Let stand about 20 minutes to dry the coating.",
+    "Melt the butter in a shallow baking dish. Arrange the chicken skin side down in a single layer.",
+    "Bake at 375° about 40 minutes, turn, and bake about 20 minutes more until golden brown and tender."
+   ],
+   "notes": [
+    "The title is handwritten above the pasted clipping.",
+    "Accent is a brand of MSG seasoning."
+   ],
+   "flags": [],
+   "yield": "4 servings"
+  },
+  {
+   "id": "078",
+   "title": "Hawaiian Beef Stew",
+   "category": "Main Dishes",
+   "format": "Magazine clipping",
+   "contributor": "Dawn Robson of La Jolla, California",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/078-hawaiian-beef-stew.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "1 pound ground beef",
+    "1/4 cup chopped onion",
+    "1 16-ounce can pork and beans in tomato sauce",
+    "1 8-ounce can pineapple tidbits, drained",
+    "1/2 cup catsup",
+    "2 tablespoons vinegar",
+    "1 teaspoon dry mustard"
+   ],
+   "steps": [
+    "In a skillet, cook the ground beef and onion until the meat is browned and the onion tender; drain.",
+    "Add the remaining ingredients. Bring to boiling, then reduce heat.",
+    "Cover and simmer 20 minutes or until heated through."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": "4 to 6 servings"
+  },
+  {
+   "id": "079",
+   "title": "Slow-Cooker Beef N' Beans",
+   "category": "Main Dishes",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/079-slow-cooker-beef-n-beans.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 pounds ground beef",
+    "1 small onion, chopped",
+    "1 teaspoon salt",
+    "1/2 cup ketchup",
+    "2 tablespoons vinegar",
+    "1/4 cup brown sugar",
+    "1 can (16 oz.) pork and beans",
+    "1 can (16 oz.) kidney beans",
+    "1 can (16 oz.) butter beans"
+   ],
+   "steps": [
+    "Brown the beef and onion in a skillet; drain the fat and move to the slow cooker.",
+    "Add the other ingredients and stir to mix.",
+    "Cover and cook on low 4 to 5 hours."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": "10 to 12 servings"
+  },
+  {
+   "id": "080",
+   "title": "Spanish Omelet",
+   "category": "Breakfast",
+   "format": "Printed diabetic recipe card",
+   "contributor": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/080-spanish-omelet.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 egg",
+    "1 ounce cheese (Swiss, Edam or your choice)",
+    "Salt and pepper to taste",
+    "1 tablespoon chopped green pepper",
+    "1 tablespoon chopped onion",
+    "1/4 cup chopped stewed tomatoes"
+   ],
+   "steps": [
+    "Mix the first five ingredients and cook in a Teflon fry pan, as for a cheese omelet.",
+    "Top with warm stewed tomatoes."
+   ],
+   "notes": [
+    "Diabetic exchanges: 2 meat, 1 vegetable, 2 fat.",
+    "Refers to a \"cheese omelet\" card from the same set that isn't in the box so far."
+   ],
+   "flags": [],
+   "yield": "Serves 1"
+  },
+  {
+   "id": "081",
+   "title": "Meat with Dumplings",
+   "category": "Main Dishes",
+   "format": "Handwritten card, front and back",
+   "contributor": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/081-meat-with-dumplings-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/081-meat-with-dumplings-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "Meatballs: 1 lb ground meat, 1/2 tsp salt",
+    "1 cup sliced onions",
+    "1/2 cup chopped celery",
+    "1 cup diced potatoes",
+    "1 large can tomatoes",
+    "Thickener: 3 tbsp flour, 1 tsp salt, 1/4 tsp pepper, 1/4 cup cold water",
+    "Dumplings: 1 cup flour, 1/2 cup whole wheat flour, 2 1/2 tsp baking powder, 1 1/4 tsp salt, 3/4 cup milk"
+   ],
+   "steps": [
+    "Mix the meat and salt, form small balls and pan fry.",
+    "Pan fry the onions and celery.",
+    "Add the potatoes and tomatoes and cook until done.",
+    "Make a paste of the flour, salt, pepper and cold water and stir it into the vegetables.",
+    "Add the meatballs and cook until thickened.",
+    "For the dumplings, mix the flours, baking powder and salt, then add the milk.",
+    "Drop the dumplings onto the stew, cover and simmer 10 to 12 minutes."
+   ],
+   "notes": [
+    "Brackets on the card group the ingredients into steps."
+   ],
+   "flags": [
+    "A word before \"Flour\" in the dumplings is blotted out.",
+    "The dumpling salt may read 1 1/4 or 1/4 tsp (the fraction is written over).",
+    "The card says only \"add dumplings\"; dropping by spoonfuls is assumed."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "082",
+   "title": "Stadium Chicken Dogs",
+   "category": "Main Dishes",
+   "format": "Printed recipe card (Banquet)",
+   "contributor": "Banquet Quick & Easy Recipes",
+   "time": "20 minutes or less",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/082-stadium-chicken-dogs.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 pkg. Banquet chicken nuggets",
+    "1 pkg. hot dog buns",
+    "Toppings: ketchup, mustard, relish, chopped onion, shredded cheese, chili with beans, or any favorites"
+   ],
+   "steps": [
+    "Prepare the chicken as directed on the package.",
+    "Place the nuggets in the buns.",
+    "Top with any of the toppings."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": "8 servings"
+  },
+  {
+   "id": "083",
+   "title": "Balsamic Glazed Chicken",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/083-balsamic-glazed-chicken-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/083-balsamic-glazed-chicken-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1/2 cup balsamic vinegar",
+    "2 tbsp honey",
+    "1 1/2 tbsp whole grain mustard",
+    "3 cloves garlic, minced (3 teaspoons)",
+    "Salt",
+    "Pepper",
+    "4 chicken breasts",
+    "Baby red potatoes, cut",
+    "1 tbsp chopped rosemary",
+    "2 tbsp extra virgin olive oil"
+   ],
+   "steps": [
+    "Preheat oven to 425°.",
+    "In a large bowl, combine the balsamic, honey, mustard and garlic. Season with salt and pepper and stir until combined.",
+    "Add the chicken and toss until fully covered. Marinate in the fridge 20 minutes up to an hour.",
+    "Cut the potatoes. Season with salt, pepper and rosemary, plus 1 tbsp olive oil.",
+    "In a large skillet, sear the chicken in the remaining olive oil, 2 minutes each side.",
+    "Add the potato mixture to the skillet with the chicken.",
+    "Bake about 20 minutes, until the potatoes are soft and the chicken is tender. Serve with the pan drippings."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers).",
+    "\"20 min or so\" is squeezed in above the baking line."
+   ],
+   "flags": [
+    "The olive oil amount for the potatoes is written over; 1 tbsp is the best reading."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "084",
+   "title": "Original Ranch Crispy Chicken",
+   "category": "Main Dishes",
+   "format": "Cut from packaging (Hidden Valley)",
+   "contributor": "Hidden Valley Ranch",
+   "time": "Prep 10 min, cook 50 min",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/084-ranch-crispy-chicken.jpg",
+     "label": "Package panel"
+    }
+   ],
+   "ingredients": [
+    "1 packet Hidden Valley Original Ranch Salad Dressing & Seasoning Mix",
+    "1 cup unseasoned dry bread crumbs (or cornflake crumbs)",
+    "1 roasting chicken, about 3 pounds, cut into 8 pieces"
+   ],
+   "steps": [
+    "Preheat the oven to 375°F.",
+    "Combine the seasoning mix and bread crumbs in a gallon-size food storage bag.",
+    "Add the chicken pieces, seal, and shake to coat evenly.",
+    "Bake on an ungreased pan at 375°F for 50 minutes, or until the juices run clear or it reaches 165°F inside."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": ""
+  },
+  {
+   "id": "085",
+   "title": "Egg Rolls",
+   "category": "Main Dishes",
+   "format": "Handwritten note (torn scrap)",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/085-egg-rolls.jpg",
+     "label": "Note"
+    }
+   ],
+   "ingredients": [
+    "Egg roll wraps",
+    "\"C.B.\"",
+    "Shredded carrots",
+    "Minced garlic",
+    "Soy sauce",
+    "Angel hair pasta",
+    "Romaine lettuce",
+    "Eggs"
+   ],
+   "steps": [
+    "No directions on the note, just the shopping list."
+   ],
+   "notes": [
+    "In Tammy's handwriting."
+   ],
+   "flags": [
+    "\"C.B.\" isn't spelled out; cabbage or coleslaw blend is the likely meaning.",
+    "No amounts or directions."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "086",
+   "title": "Fiesta Chicken Empanada",
+   "category": "Main Dishes",
+   "format": "Printed recipe card (Pillsbury)",
+   "contributor": "Pillsbury",
+   "time": "Prep 15 min, ready in 40",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/086-fiesta-chicken-empanada.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 (15-oz.) pkg. Pillsbury refrigerated pie crusts, softened as directed",
+    "1 tablespoon olive oil",
+    "1 medium onion, sliced",
+    "1/2 medium red bell pepper, cut into 2x1/4-inch strips",
+    "1/2 medium green bell pepper, cut into strips",
+    "1/2 medium yellow bell pepper, cut into strips",
+    "1 (10-oz.) can chunk white chicken breast in water, drained",
+    "4 teaspoons dry fajita seasoning",
+    "1/2 cup Old El Paso Cheese 'n Salsa Dip",
+    "1 egg, beaten",
+    "Garnish if desired: sour cream, more Cheese 'n Salsa Dip"
+   ],
+   "steps": [
+    "Heat oven to 425°F. Unfold the crusts and press out the fold lines. Place 1 crust on an ungreased 14-inch pizza pan or cookie sheet.",
+    "Heat the oil in a large skillet over medium-high heat. Cook the onion and peppers 5 minutes until tender, stirring occasionally. Add the chicken and fajita seasoning; mix well.",
+    "Spoon the chicken mixture onto the crust to within 1 inch of the edge. Spread the 1/2 cup dip over it. Brush the edge with water, top with the second crust, and press the edges firmly to seal. Brush the top with egg.",
+    "Bake at 425°F 20 to 25 minutes until deep golden brown, covering the edge with foil after 10 to 15 minutes. Cut into wedges and garnish."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": "6 servings"
+  },
+  {
+   "id": "087",
+   "title": "Flaky Deli Slices",
+   "category": "Appetizers",
+   "format": "Printed recipe card (Pillsbury)",
+   "contributor": "Pillsbury",
+   "time": "Prep 10 min, ready in 35",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/087-flaky-deli-slices.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 (15-oz.) pkg. Pillsbury refrigerated pie crusts, softened as directed",
+    "1/4 cup grated Parmesan cheese",
+    "3/4 lb. very thinly sliced cooked ham",
+    "1/4 lb. thinly sliced pepperoni",
+    "4 oz. (1 cup) shredded Cheddar cheese"
+   ],
+   "steps": [
+    "Heat oven to 450°F. Unfold the crusts, press out the fold lines, and sprinkle each with Parmesan.",
+    "Top each crust with ham, pepperoni and Cheddar to within 1 inch of the edges. Roll up loosely and place seam side down on an ungreased cookie sheet. Fold the ends under.",
+    "Bake 12 to 17 minutes until golden brown. Cool 5 minutes, cut each roll into 16 slices, and serve warm."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": "32 servings"
+  },
+  {
+   "id": "088",
+   "title": "Original Ranch Roasted Potatoes",
+   "category": "Sides",
+   "format": "Cut from packaging (Hidden Valley)",
+   "contributor": "Hidden Valley Ranch",
+   "time": "Prep 15 min, cook 35 min",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/088-ranch-roasted-potatoes.jpg",
+     "label": "Package panel"
+    }
+   ],
+   "ingredients": [
+    "1 packet Hidden Valley Original Ranch Salad Dressing & Seasoning Mix",
+    "2 lb. small red potatoes, quartered",
+    "1/4 cup vegetable oil"
+   ],
+   "steps": [
+    "Put the potatoes and oil in a gallon-size food storage bag, seal, and toss to coat.",
+    "Add the seasoning mix and toss again until coated.",
+    "Bake on an ungreased pan at 450°F for 30 to 35 minutes, until brown and crisp."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": ""
+  },
+  {
+   "id": "089",
+   "title": "Sloppy Joe Casserole",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/089-sloppy-joe-casserole.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 1/2 lbs. ground beef",
+    "2 packages garlic crescent rolls",
+    "4 cups mozzarella cheese",
+    "2 cans Manwich sauce"
+   ],
+   "steps": [
+    "Brown the ground beef and mix with the Manwich sauce.",
+    "Line a baking dish with crescent dough. Add a layer of the Manwich mixture and sprinkle half the cheese over the top.",
+    "Repeat the layers.",
+    "Bake at the temperature and time on the crescent roll package."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "The card doesn't say to brown the beef; that step is filled in."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "090",
+   "title": "Classic Italian Meatballs",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/090-italian-meatballs-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/090-italian-meatballs-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "3 lbs. ground beef",
+    "1 1/2 lbs. ground pork",
+    "4 tsp garlic",
+    "1 cup fresh Italian parsley",
+    "Chopped onion",
+    "1 Tbsp dried leaf oregano",
+    "4 eggs",
+    "1 tbsp black pepper",
+    "2 tsp kosher salt",
+    "1 1/2 cups unseasoned bread crumbs",
+    "1 cup buttermilk",
+    "1 cup grated Parmesan cheese",
+    "1/4 cup water",
+    "Marinara sauce"
+   ],
+   "steps": [
+    "Mix the meatball ingredients and roll into balls.",
+    "Cook entirely on high.",
+    "Heat up the sauce and spoon it over the meatballs.",
+    "Sprinkle Parmesan over the top."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers).",
+    "A big batch: 4 1/2 pounds of meat."
+   ],
+   "flags": [
+    "The bread crumb unit is written over; cups is the likely reading.",
+    "\"Cook entirely on high\" doesn't say slow cooker or stovetop.",
+    "Unclear whether all the Parmesan goes in the meatballs or some is saved for the top."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "091",
+   "title": "Orange Marmalade & BBQ Chicken",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/091-orange-marmalade-bbq-chicken.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "5 boneless chicken breasts",
+    "3/4 cup orange marmalade",
+    "3/4 cup Sweet Baby Ray's BBQ sauce",
+    "2 Tbsp soy sauce"
+   ],
+   "steps": [
+    "Mix the marmalade, BBQ sauce and soy sauce into a marinade.",
+    "Cover the chicken with the marinade in a pan and cook on high until the chicken is no longer pink inside."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "The marmalade and BBQ sauce amounts say just \"3/4\"; cups assumed."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "092",
+   "title": "Sweet Hawaiian Chicken",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/092-sweet-hawaiian-chicken.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 lbs. cubed chicken breast",
+    "1 cup pineapple juice",
+    "1/2 can tiny pineapple chunks",
+    "1/2 cup brown sugar",
+    "1/3 cup soy sauce",
+    "1/2 red pepper, chopped in tiny bits",
+    "1/2 green pepper, chopped in tiny bits"
+   ],
+   "steps": [
+    "Cook everything in a skillet until the chicken is cooked thoroughly.",
+    "Serve with white or brown rice."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "\"Slice\" before \"tiny pineapple chunks\" is unclear."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "093",
+   "title": "Stuffing Meat Loaf",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/093-stuffing-meat-loaf-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/093-stuffing-meat-loaf-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 package dry savory herb stuffing",
+    "1 cup warm water",
+    "1 1/2 lbs. ground beef",
+    "2 eggs, slightly beaten",
+    "1 package onion soup mix",
+    "Margarine for the pan"
+   ],
+   "steps": [
+    "Preheat oven to 350°. Coat the pan with margarine.",
+    "Put the warm water, onion soup mix and stuffing in a bowl and mix well. Let sit 5 minutes for the bread to absorb the water.",
+    "Add the eggs and ground beef. It works best if you mix with your hands.",
+    "Place in the dish. Bake 1 hour or until no longer pink inside.",
+    "Let sit 5 minutes before serving."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [],
+   "yield": ""
+  },
+  {
+   "id": "094",
+   "title": "Hawaiian Beef",
+   "category": "Main Dishes",
+   "format": "Handwritten card",
+   "contributor": "Ann Caldwell",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/094-hawaiian-beef.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "5 lbs. steak (beef meat), in strips",
+    "1/2 cup flour",
+    "2 tsp salt, dash pepper",
+    "2 cups sliced onions",
+    "3/4 cup catsup",
+    "2 tbsp vinegar",
+    "2 tbsp Worcestershire",
+    "4 tbsp soy sauce",
+    "1/2 cup sugar",
+    "3/4 cup water"
+   ],
+   "steps": [
+    "Shake the meat strips in the flour, salt and pepper.",
+    "Arrange in a casserole and put the onions on top.",
+    "Mix the catsup, vinegar, Worcestershire, soy sauce, sugar and water and pour over the meat.",
+    "Cover and bake at 300° for 3 hours. Serve with rice."
+   ],
+   "notes": [
+    "Credited to Ann Caldwell, who also gave the Oatmeal Chocolate Chip Cake (No. 046)."
+   ],
+   "flags": [
+    "The sugar line says just \"1/2\"; cup assumed."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "095",
+   "title": "Chicken Teriyaki",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/095-chicken-teriyaki.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 lbs. chicken, thinly sliced (1 inch across)",
+    "1 cup teriyaki sauce",
+    "1 can chicken broth",
+    "3/4 cup brown sugar",
+    "6 cloves minced garlic"
+   ],
+   "steps": [
+    "Cook everything in a skillet until the chicken is thoroughly cooked.",
+    "Serve with white or brown rice. Drizzle extra sauce over the rice if desired."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "The first line doesn't name the meat; chicken from the title."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "096",
+   "title": "Porcupines",
+   "category": "Main Dishes",
+   "format": "Printed \"Here's what's cookin'\" card, front and back",
+   "contributor": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/096-porcupines-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/096-porcupines-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 lb. ground beef",
+    "1 medium onion, chopped",
+    "1 egg",
+    "Salt and garlic salt",
+    "1 cup rice",
+    "1 can tomato soup",
+    "1/2 can water"
+   ],
+   "steps": [
+    "Mix the beef, onion, egg, salts and rice and form into balls.",
+    "Simmer the tomato soup and water, and add the meatballs.",
+    "Cook slowly (maybe 1/2 hour?), but check the meat to see if it is done."
+   ],
+   "notes": [
+    "Spelled \"Porkipines\" on the card, with \"(grnd beef)\" written above.",
+    "The cook's own question mark is on the back: \"maybe 1/2 hr?\""
+   ],
+   "flags": [
+    "Uncooked rice is usual for porcupine meatballs and usually needs closer to an hour to soften."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "097",
+   "title": "Lasagne",
+   "category": "Main Dishes",
+   "format": "Printed \"Here's what's cookin'\" card, front and back",
+   "contributor": "Violet Sharp (Grandma Sharp)",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/097-lasagne-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/097-lasagne-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "Meat sauce: 1 lb. ground beef, 1 garlic clove, 1 T parsley, 1 T basil, 1/2 t salt, 1 lb. can tomatoes, 12 oz. can tomato paste",
+    "Cheese mixture: 3 c. cottage cheese, 2 T parsley, 2 beaten eggs, 1/2 c. Parmesan cheese, 2 tsp. salt, 1/2 tsp. pepper",
+    "10 oz. wide lasagna noodles",
+    "1 lb. mozzarella cheese"
+   ],
+   "steps": [
+    "Brown the beef in a skillet. Add the garlic, parsley, basil, salt, tomatoes and tomato paste and simmer 30 minutes.",
+    "Combine the cheese mixture ingredients.",
+    "Cook the noodles.",
+    "In a 13x9 pan, layer half the noodles, half the cheese mixture and half the meat mixture. Repeat.",
+    "Sprinkle with the mozzarella.",
+    "Bake at 375° for 30 minutes, until the cheese melts, and serve."
+   ],
+   "notes": [
+    "\"Recipe from the kitchen of: V. Sharp\" is Violet Sharp, Grandma Sharp herself.",
+    "\"Serves 10-15\" and \"375° oven\" are noted in the top corner."
+   ],
+   "flags": [],
+   "yield": "10 to 15"
+  },
+  {
+   "id": "098",
+   "title": "Ground Chicken Stir Fry with Rice",
+   "category": "Main Dishes",
+   "format": "Typed page",
+   "contributor": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/098-ground-chicken-stir-fry.jpg",
+     "label": "Page"
+    }
+   ],
+   "ingredients": [
+    "2 lb. ground chicken",
+    "1/2 cup Yoshida's Gourmet sauce",
+    "1/2 cup water",
+    "1 cup celery, chopped",
+    "1 cup onions, sliced",
+    "2 to 3 cups cooked rice"
+   ],
+   "steps": [
+    "Prepare the vegetables and precook the rice; set aside.",
+    "Brown the chicken and drain well.",
+    "Mix all ingredients in a fry pan or wok and cook until the vegetables are crisp."
+   ],
+   "notes": [
+    "Use any combination of vegetables you wish.",
+    "Goes with the Yoshida's sauce leaflet (No. 101)."
+   ],
+   "flags": [],
+   "yield": ""
+  },
+  {
+   "id": "099",
+   "title": "Saucy Asian Meatballs",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/099-saucy-asian-meatballs-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/099-saucy-asian-meatballs-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "Meatballs: 2 lbs. ground beef, 2 tbsp Worcestershire sauce, 2 tbsp sesame oil",
+    "1 tbsp olive oil, to grease the pan",
+    "1 tbsp sesame seeds, to sprinkle when done",
+    "Sauce: 1/3 cup hoisin sauce, 1/4 cup ketchup, 1/3 cup honey, 1/4 cup rice wine vinegar, 1 tbsp sesame oil"
+   ],
+   "steps": [
+    "Preheat oven to 400°. In a bowl, mix all the meatball ingredients except the olive oil.",
+    "Shape into balls. Grease the baking pan with the olive oil and place the meatballs in it.",
+    "Bake 15 to 20 minutes. While they cook, mix the sauce ingredients in a bowl.",
+    "When the meatballs are done, pour off all the liquid from the pan.",
+    "Pour the sauce over until the meatballs are completely covered. Sprinkle sesame seeds over the top."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "The rice wine vinegar says just \"1/4\"; cup assumed."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "100",
+   "title": "Tater Tot Casserole",
+   "category": "Main Dishes",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/100-tater-tot-casserole.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 bag Tater Tots",
+    "1 cup frozen chopped onions",
+    "2 lb. ground beef",
+    "2 cans cream of chicken soup",
+    "Margarine for the pan"
+   ],
+   "steps": [
+    "Preheat oven to 400°. Coat the bottom of the pan with margarine.",
+    "Cook the ground beef and onions, then drain the grease. Pour into the baking dish.",
+    "Spoon the soup over the mixture. Layer the Tater Tots over the soup.",
+    "Bake 45 minutes or until the tots are golden brown and the mixture is bubbling."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [],
+   "yield": ""
+  },
+  {
+   "id": "101",
+   "title": "Yoshida's Gourmet Sauce Recipes",
+   "category": "Main Dishes",
+   "format": "Printed leaflet (Oregon Trading Post Co.)",
+   "contributor": "Yoshida's (Oregon Trading Post Co., Beaverton, OR)",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/101-yoshidas-sauce-leaflet.jpg",
+     "label": "Leaflet"
+    }
+   ],
+   "ingredients": [
+    "Yoshida's Original Recipe Gourmet Sauce",
+    "Pork chops, salmon, ground round, or chicken (per recipe)",
+    "Crushed pineapple, onions, parsley, lemon (optional)"
+   ],
+   "steps": [
+    "Karate Chops: Brown pork chops in a little shortening and drain. Put in a casserole, brush with 2 to 4 tbsp sauce (crushed pineapple optional), and bake at 350° about 20 minutes. Turn, brush with more sauce, and bake about 20 minutes more.",
+    "Sayonara Salmon: Marinate salmon steaks or fillets in the sauce 1 hour. Broil or barbecue, basting with drippings. Garnish with parsley, sauteed onions or lemon.",
+    "Teriyaki Burgers: Mix 1/4 cup sauce and 1/4 cup chopped onion into 1 1/2 lbs. ground round. Shape patties and broil, barbecue or pan fry.",
+    "Gourmet Chicken: Use about 1/4 cup sauce per pound of chicken. Spoon over chicken pieces in a casserole and bake at 350° about 20 minutes. Turn, baste, and bake 25 minutes more. For skinless breasts, marinate 1 hour first.",
+    "Fried Chicken: Pour 2 oz. sauce into an electric fry pan at 250°. Add chicken and turn to coat. Cook covered, turning every 5 minutes, 20 to 25 minutes. Uncover for the last 5 minutes to glaze."
+   ],
+   "notes": [
+    "The Fried Chicken recipe was typed onto the bottom of the leaflet by someone in the family.",
+    "The Ground Chicken Stir Fry (No. 098) uses the same sauce."
+   ],
+   "flags": [],
+   "yield": ""
+  },
+  {
+   "id": "102",
+   "title": "Tangy Chicken of the Islands",
+   "category": "Main Dishes",
+   "format": "Clipping taped to a recipe card",
+   "contributor": "Clipping",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/102-tangy-chicken-of-the-islands.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1/2 cup vinegar",
+    "1/2 cup soy sauce",
+    "1 clove garlic, minced fine",
+    "Dash of freshly ground pepper",
+    "1 (2 to 3 lb.) frying chicken, cut into serving pieces"
+   ],
+   "steps": [
+    "Put the vinegar, soy sauce, garlic and pepper in a skillet. Add the chicken and marinate at least 30 minutes.",
+    "Heat to boiling on top of the stove. Cover, lower heat, and simmer about 40 minutes; the liquid absorbs into the chicken.",
+    "Serve hot or cold."
+   ],
+   "notes": [],
+   "flags": [],
+   "yield": "4 to 6 servings"
+  },
+  {
+   "id": "103",
+   "title": "Baked Beans",
+   "category": "Sides",
+   "format": "Handwritten note on lined paper",
+   "contributor": "Tammy Jones",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/103-baked-beans.jpg",
+     "label": "Note"
+    }
+   ],
+   "ingredients": [
+    "6 slices bacon, diced",
+    "1 small onion, chopped",
+    "2 28-oz. or 4 16-oz. cans baked beans, undrained",
+    "1/4 cup ketchup",
+    "2 or 3 tablespoons light brown sugar",
+    "2 tablespoons mustard",
+    "2 tablespoons maple syrup",
+    "1 tablespoon Worcestershire sauce"
+   ],
+   "steps": [
+    "Cook the bacon (and onion).",
+    "Cook all together."
+   ],
+   "notes": [
+    "In Tammy's handwriting."
+   ],
+   "flags": [
+    "The can count and size are written over: probably \"2 28 oz. or 4 16 oz.\"",
+    "The last line ends \"at 3\" with a scribble; maybe 325° or 3 hours.",
+    "The Worcestershire amount is written over; 1 tablespoon is the likely reading."
+   ],
+   "yield": ""
+  },
+  {
+   "id": "104",
+   "title": "Chinese Casserole",
+   "category": "Main Dishes",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/104-chinese-casserole.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 cup diced celery",
+    "1 can mushroom soup",
+    "2/3 can water, or juice from the can of vegetables",
+    "1 can tuna, drained",
+    "1 large can Chinese noodles",
+    "1 can corn or peas",
+    "Some diced onion"
+   ],
+   "steps": [
+    "Mix everything together.",
+    "Bake at 375° for 30 minutes."
+   ],
+   "notes": [
+    "\"Some diced onion\" was added later in pencil."
+   ],
+   "flags": [
+    "The water amount is written over; 2/3 can is the best reading."
+   ]
+  },
+  {
+   "id": "105",
+   "title": "Porcupines (Hamburger)",
+   "category": "Main Dishes",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/105-porcupines-hamburger.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 lb. meat (hamburger)",
+    "1 medium onion, chopped",
+    "1 egg",
+    "Salt and garlic salt",
+    "1 cup rice",
+    "1 can tomato soup",
+    "1/2 can water"
+   ],
+   "steps": [
+    "Mix the meat, onion, egg, salts and rice and form into balls.",
+    "Simmer the tomato soup and water, and add the meatballs.",
+    "Serve with spaetzle (noodles)."
+   ],
+   "notes": [
+    "Spelled \"Porkepines\". Same recipe as No. 096 in different handwriting, with a serving tip: \"real good with spätzle (noodles).\"",
+    "See No. 096 for the cooking time (\"maybe 1/2 hr? but check meat\")."
+   ],
+   "flags": [
+    "A few words after \"balls +\" are crossed out."
+   ]
+  },
+  {
+   "id": "106",
+   "title": "Quick Skillet Beef and Dumplings",
+   "category": "Main Dishes",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "4 servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/106-quick-skillet-beef-dumplings.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "1 pound ground beef",
+    "1/2 cup chopped onion",
+    "2 (8-oz.) cans tomato sauce with mushrooms",
+    "1 (10-oz.) package frozen mixed vegetables, thawed",
+    "2/3 cup water",
+    "1 teaspoon salt",
+    "1/2 teaspoon thyme",
+    "1/8 teaspoon pepper",
+    "1 cup biscuit mix",
+    "1/3 cup milk",
+    "2 tablespoons grated Parmesan cheese"
+   ],
+   "steps": [
+    "Brown the beef and onion in a large skillet; pour off excess fat.",
+    "Add the tomato sauce, vegetables, water, salt, thyme and pepper. Combine well and bring to a boil.",
+    "Mix the biscuit mix, milk and Parmesan. Spoon over the boiling beef mixture in 5 to 6 mounds.",
+    "Lower heat and simmer uncovered 10 minutes, then cover and simmer another 10 minutes."
+   ],
+   "notes": [
+    "The clipping's headline misspells it \"Dumpings\"."
+   ],
+   "flags": [
+    "The water amount is smudged; 2/3 cup is the likely reading."
+   ]
+  },
+  {
+   "id": "107",
+   "title": "Yummy Balls",
+   "category": "Main Dishes",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "Serves 6",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/107-yummy-balls.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 lb. ground beef",
+    "1/2 lb. ground pork",
+    "1 small onion, minced",
+    "1/2 cup uncooked rice",
+    "1/2 cup cracker crumbs",
+    "1 egg",
+    "Salt and pepper",
+    "1 can tomato soup, thinned with a little water"
+   ],
+   "steps": [
+    "Mix the meat, onion, rice, cracker crumbs, egg, salt and pepper well. Shape into balls.",
+    "Pile in a well-oiled casserole. Pour the tomato soup, thinned with a little water, over all.",
+    "Cover the casserole and bake about 1 hour \"at any heat.\""
+   ],
+   "notes": [
+    "Another cousin of the Porcupines (No. 096, 105), baked instead of simmered.",
+    "The card really does say \"at any heat\"; 350° is a safe choice."
+   ],
+   "flags": []
+  },
+  {
+   "id": "108",
+   "title": "Mexican Mac",
+   "category": "Main Dishes",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "Violet Sharp (Grandma Sharp)",
+   "yield": "Serves 6 to 8",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/108-mexican-mac.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 lb. ground beef",
+    "1 cup cold water",
+    "1 pkg. (1 1/4 oz.) taco seasoning mix",
+    "1 pkg. macaroni and cheese dinner",
+    "Optional toppings: sour cream or guacamole, and/or tortilla chips"
+   ],
+   "steps": [
+    "Brown the beef in a pan.",
+    "Mix the water and taco seasoning, add to the browned beef, and simmer 15 minutes.",
+    "Prepare the mac and cheese as directed on the package.",
+    "Fold the beef mixture and mac and cheese together and serve.",
+    "Top with sour cream or guacamole and/or tortilla chips if you like."
+   ],
+   "notes": [
+    "Signed \"Recipe from: Violet Sharp\" — Grandma Sharp."
+   ],
+   "flags": []
+  },
+  {
+   "id": "109",
+   "title": "Stir-Fry Chicken",
+   "category": "Main Dishes",
+   "format": "Printed recipe taped to a \"Here's what's cookin'\" card",
+   "contributor": "",
+   "yield": "4 servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/109-stir-fry-chicken.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 lb. I.F. (individually frozen) chicken",
+    "1 can (10 oz.) chicken broth",
+    "1 cup cut broccoli",
+    "1/2 cup mushrooms",
+    "1 can bamboo shoots, drained",
+    "1 T. cornstarch",
+    "3 T. soy sauce",
+    "3 T. salad oil",
+    "Rice, to serve"
+   ],
+   "steps": [
+    "Cut the chicken into very thin slices; set aside.",
+    "In a small bowl, stir together the broth, cornstarch and soy sauce. Set aside.",
+    "In a 10-inch skillet or wok over medium heat, add 2 T. oil and stir-fry the chicken until browned.",
+    "Add the remaining 1 T. oil. Add the broccoli and mushrooms and stir-fry 1 to 2 minutes. Add the bamboo shoots and stir-fry 30 seconds more.",
+    "Return the chicken to the skillet. Stir in the broth mixture, bring to a boil, and cook 2 to 3 minutes more. Spoon over rice."
+   ],
+   "notes": [
+    "The title is handwritten on the card above the taped-on recipe."
    ],
    "flags": []
   }
