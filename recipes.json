@@ -2716,6 +2716,46 @@
    ],
    "notes": [],
    "flags": []
+  },
+  {
+   "id": "073",
+   "title": "Jean's Tuna Macaroni Salad",
+   "category": "Salads",
+   "format": "Email",
+   "contributor": "Jean Jones (William's mom)",
+   "yield": "",
+   "time": "",
+   "date": "July 2019",
+   "photos": [
+    {
+     "src": "img/073-macaroni-salad-email.jpg",
+     "label": "Jean's email"
+    }
+   ],
+   "ingredients": [
+    "1 pkg. salad macaroni",
+    "1 pkg. shredded cheese",
+    "2 cans tuna",
+    "1 can peas",
+    "1 small white onion",
+    "5 tablespoons Miracle Whip",
+    "5 tablespoons mayonnaise",
+    "Yellow mustard",
+    "Dijon mustard",
+    "Mrs. Dash seasoning (no salt)"
+   ],
+   "steps": [
+    "Boil the macaroni. When it's done, rinse it, then cover it with cold water until the macaroni is cold. Drain.",
+    "Add the tuna, peas, cheese and onion and mix in.",
+    "Add the mayonnaise and Miracle Whip, and the yellow and Dijon mustard (about as much as you'd put on 2 hot dogs).",
+    "Sprinkle Mrs. Dash over the whole bowl and mix.",
+    "Add more mustard, seasoning and Miracle Whip until it tastes right."
+   ],
+   "notes": [
+    "Jean Jones, William's mom, emailed this in 2019, and William forwarded it to his daughter.",
+    "In her words: \"I just play with it till it tastes right. Hope it turns out.\""
+   ],
+   "flags": []
   }
  ]
 }
