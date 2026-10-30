@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,-apple-system,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>Family Recipe Box</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Courier+Prime:wght@400;700&family=Libre+Franklin:wght@400;500;600&display=swap">
+<style>
+/* Layout: a recipe box — index tabs filter a stack of cards; tapping one opens the typed-up recipe beside its original photo. */
+:root{
+  --paper:#eef1e8;      /* the green typed-page stock, lightened */
+  --card:#fbfcf8;
+  --ink:#24291f;
+  --muted:#636b5a;
+  --rule:#d6dbcc;
+  --rose:#a8455a;       /* the striped index card */
+  --rose-soft:#f3dfe2;
+  --sage:#6f8a5e;
+  --flag:#8a5a12;
+  --flag-bg:#f6ecd8;
+  --display:"Young Serif",Georgia,"Times New Roman",serif;
+  --body:"Libre Franklin",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --type:"Courier Prime","Courier New",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#171b15;--card:#20251d;--ink:#e8ecdf;--muted:#a3ab97;--rule:#343b2e;
+  --rose:#e08a9b;--rose-soft:#3a2328;--sage:#9cb68a;--flag:#e6bd73;--flag-bg:#33291a;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#171b15;--card:#20251d;--ink:#e8ecdf;--muted:#a3ab97;--rule:#343b2e;
+  --rose:#e08a9b;--rose-soft:#3a2328;--sage:#9cb68a;--flag:#e6bd73;--flag-bg:#33291a;color-scheme:dark}
+
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55}
+.wrap{max-width:880px;margin:0 auto;padding-block:28px 56px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2{font-family:var(--display);font-weight:400;text-wrap:balance;margin:0}
+h1{font-size:clamp(28px,6vw,40px);line-height:1.1}
+.sub{color:var(--muted);margin:6px 0 0;font-size:14px}
+.boxart{display:block;width:100%;max-height:260px;object-fit:cover;object-position:center 60%;border-radius:4px;margin-bottom:18px;border:1px solid var(--rule)}
+.count{font-family:var(--type);font-size:13px;color:var(--muted)}
+
+.tools{display:flex;flex-direction:column;gap:12px;margin:24px 0 18px}
+#q{width:100%;box-sizing:border-box;font:inherit;padding:11px 14px;border:1px solid var(--rule);border-radius:8px;background:var(--card);color:var(--ink)}
+#q:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--rose);outline-offset:2px}
+.tabs{display:flex;flex-wrap:wrap;gap:6px}
+.tab{font:500 13px var(--body);padding:6px 12px 7px;border:1px solid var(--rule);border-bottom-width:2px;border-radius:8px 8px 3px 3px;background:var(--card);color:var(--muted);cursor:pointer}
+.tab[aria-pressed="true"]{color:var(--ink);border-color:var(--rose);background:var(--rose-soft)}
+
+.list{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;padding:0;margin:0;list-style:none}
+.item{all:unset;box-sizing:border-box;display:flex;flex-direction:column;gap:6px;width:100%;cursor:pointer;
+  background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:14px 16px 16px;
+  background-image:linear-gradient(var(--card) 30px,transparent 30px),repeating-linear-gradient(transparent 0 25px,var(--rule) 25px 26px);
+  transition:transform .15s ease,border-color .15s ease}
+.item:hover{transform:translateY(-2px);border-color:var(--rose)}
+.item:focus-visible{outline:2px solid var(--rose);outline-offset:2px}
+.no{font:700 12px var(--type);color:var(--rose);letter-spacing:.06em}
+.item h2{font-size:19px;line-height:1.25}
+.meta{font-size:12.5px;color:var(--muted)}
+.chip{display:inline-block;font-size:11.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:3px}
+.chip.flag{background:var(--flag-bg);color:var(--flag)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;padding-top:4px}
+.chip.fmt{background:transparent;border:1px solid var(--rule);color:var(--muted)}
+.empty{color:var(--muted);padding:30px 0}
+
+/* detail */
+.back{all:unset;cursor:pointer;color:var(--rose);font-weight:600;font-size:14px;display:inline-flex;gap:6px;margin-bottom:18px}
+.recipe{background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:24px clamp(16px,4vw,32px) 28px}
+.recipe h2{font-size:clamp(26px,5vw,34px);line-height:1.15;margin-top:4px}
+.facts{display:flex;flex-wrap:wrap;gap:6px 18px;margin:10px 0 0;font-size:13.5px;color:var(--muted)}
+.facts b{color:var(--ink);font-weight:600}
+.cols{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:28px;margin-top:24px}
+@media (max-width:640px){.cols{grid-template-columns:1fr}}
+h3{font:600 12px var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--sage);margin:0 0 10px}
+.ing{list-style:none;padding:0;margin:0;font-family:var(--type);font-size:15px}
+.ing li{padding:6px 0;border-bottom:1px dashed var(--rule)}
+.steps{margin:0;padding-left:1.4em;display:flex;flex-direction:column;gap:10px}
+.steps li::marker{font-family:var(--type);color:var(--rose);font-weight:700}
+.block{margin-top:26px}
+.notes{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:6px}
+.flags{background:var(--flag-bg);border-radius:4px;padding:12px 16px}
+.flags h3{color:var(--flag)}
+.flags ul{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:6px;font-size:14px}
+.photos{display:flex;flex-direction:column;gap:14px}
+figure{margin:0}
+figure img{display:block;width:100%;height:auto;border-radius:3px;border:1px solid var(--rule)}
+figcaption{font-size:12.5px;color:var(--muted);margin-top:6px}
+.muted{color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.item{transition:none}.item:hover{transform:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <img class="boxart" src="img/box.jpg" alt="The painted wooden recipe box: a sailboat on a green lake, dark mountains, and thatched houses">
+    <h1>Family Recipe Box</h1>
+    <p class="sub">Grandma's cards, typed up and kept next to the originals. <span class="count" id="count"></span></p>
+  </header>
+
+  <section id="browse">
+    <div class="tools">
+      <label for="q" class="muted" hidden>Search recipes</label>
+      <input id="q" type="search" placeholder="Search by name or ingredient (try “pecans”)" autocomplete="off">
+      <div class="tabs" id="tabs" role="group" aria-label="Filter by category"></div>
+    </div>
+    <ul class="list" id="list"><li class="empty">Opening the recipe box…</li></ul>
+  </section>
+
+  <section id="detail" hidden></section>
+</div>
+
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let recipes=[],cat="All";
+
+function cats(){return ["All",...new Set(recipes.map(r=>r.category).filter(Boolean))]}
+function renderTabs(){
+  $("#tabs").innerHTML=cats().map(c=>`<button class="tab" id="tab-${esc(c)}" aria-pressed="${c===cat}" data-c="${esc(c)}">${esc(c)}</button>`).join("");
+}
+function matches(r,q){
+  if(!q)return true;
+  const hay=[r.title,r.category,r.contributor,...r.ingredients,...r.steps,...r.notes].join(" ").toLowerCase();
+  return q.toLowerCase().split(/\s+/).every(w=>hay.includes(w));
+}
+function renderList(){
+  const q=$("#q").value.trim();
+  const rows=recipes.filter(r=>(cat==="All"||r.category===cat)&&matches(r,q));
+  $("#list").innerHTML=rows.length?rows.map(r=>`
+    <li><button class="item" data-id="${r.id}">
+      <span class="no">No. ${esc(r.id)}</span>
+      <h2>${esc(r.title)}</h2>
+      <span class="meta">${esc(r.category)}${r.contributor?` · from ${esc(r.contributor)}`:""}</span>
+      <span class="chips"><span class="chip fmt">${esc(r.format)}</span>${r.flags.length?`<span class="chip flag">${r.flags.length} to check</span>`:""}</span>
+    </button></li>`).join(""):`<li class="empty">No recipes match “${esc(q)}”.</li>`;
+}
+function renderDetail(r){
+  const list=(a,cls)=>a.map(x=>`<li>${esc(x)}</li>`).join("");
+  $("#detail").innerHTML=`
+    <button class="back" id="back">← All recipes</button>
+    <article class="recipe">
+      <span class="no">No. ${esc(r.id)} · ${esc(r.category)}</span>
+      <h2>${esc(r.title)}</h2>
+      <div class="facts">
+        ${r.contributor?`<span>From <b>${esc(r.contributor)}</b></span>`:""}
+        ${r.yield?`<span>Makes <b>${esc(r.yield)}</b></span>`:""}
+        <span>Original: <b>${esc(r.format)}</b></span>
+        ${r.date?`<span>Date: <b>${esc(r.date)}</b></span>`:""}
+        ${r.time?`<span>Time: <b>${esc(r.time)}</b></span>`:""}
+      </div>
+      <div class="cols">
+        <div>
+          <h3>Ingredients</h3>
+          ${r.ingredients.length?`<ul class="ing">${list(r.ingredients)}</ul>`:`<p class="muted">Not on this page yet.</p>`}
+        </div>
+        <div>
+          <h3>Directions</h3>
+          <ol class="steps">${list(r.steps)}</ol>
+        </div>
+      </div>
+      ${r.notes.length?`<div class="block"><h3>Notes</h3><ul class="notes">${list(r.notes)}</ul></div>`:""}
+      ${r.flags.length?`<div class="block flags"><h3>To check against the card</h3><ul>${list(r.flags)}</ul></div>`:""}
+      ${r.photos.length?`<div class="block"><h3>The original</h3><div class="photos">
+        ${r.photos.map(p=>`<figure><img src="${esc(p.src)}" alt="${esc(r.title)}, ${esc(p.label)}" loading="lazy"><figcaption>${esc(p.label)}</figcaption></figure>`).join("")}
+      </div></div>`:""}
+    </article>`;
+}
+function route(){
+  const m=location.hash.match(/^#r-(\w+)$/);
+  const r=m&&recipes.find(x=>x.id===m[1]);
+  $("#browse").hidden=!!r; $("#detail").hidden=!r;
+  if(r){renderDetail(r);window.scrollTo(0,0)}
+}
+document.addEventListener("click",e=>{
+  const t=e.target.closest(".tab");
+  if(t){cat=t.dataset.c;renderTabs();renderList();return}
+  const i=e.target.closest(".item");
+  if(i){location.hash="r-"+i.dataset.id;return}
+  if(e.target.closest("#back")){location.hash="";route();}
+});
+$("#q").addEventListener("input",renderList);
+window.addEventListener("hashchange",route);
+
+fetch("recipes.json").then(r=>r.json()).then(d=>{
+  recipes=d.recipes;
+  $("#count").textContent=`${recipes.length} recipes so far.`;
+  renderTabs();renderList();route();
+}).catch(()=>{$("#list").innerHTML=`<li class="empty">The recipe list didn't load. Refresh the page to try again.</li>`});
+</script>
+
+</body>
+</html>

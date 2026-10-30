@@ -1,0 +1,646 @@
+{
+  "updated": "2026-10-29",
+  "recipes": [
+    {
+      "id": "001",
+      "title": "Cheese Ball",
+      "category": "Appetizers",
+      "format": "Typed page",
+      "contributor": "Edi Dobbins, Cheney, WA",
+      "yield": "2 baseball-size balls",
+      "photos": [
+        {
+          "src": "img/001-cheese-ball.jpg",
+          "label": "Typed page"
+        }
+      ],
+      "ingredients": [
+        "2 large pkg. cream cheese",
+        "1 small wedge blue cheese (Roquefort)",
+        "1/2 glass Old English Cheddar or Pineapple Cheese",
+        "1 tsp. A-1",
+        "1/4 tsp. onion salt (best guess)",
+        "1/4 tsp. garlic salt (best guess)",
+        "About 1 c. chopped pecans, for rolling (best guess)",
+        "2 to 3 tbsp. parsley flakes, for rolling (best guess)"
+      ],
+      "steps": [
+        "Add onion salt and garlic salt to the cheeses and mash with a fork. Mix well.",
+        "Roll into two balls, about baseball size.",
+        "Roll in chopped pecans and parsley flakes and put in a 20 oz. canister.",
+        "Refrigerate overnight."
+      ],
+      "notes": [
+        "Family thinks this page came from a church recipe collection, with Edi Dobbins as the contributor.",
+        "Two versions: one made with Old English Cheddar, one with Pineapple Cheese. Family guess is that event batches were a mix of both.",
+        "Card says the balls can be frozen ahead and stored in a Kracker Keeper.",
+        "\"Old English\" is Kraft's sharp cheese spread, sold in a small glass jar, hence \"1/2 glass.\""
+      ],
+      "flags": [
+        "The last line reads \"(Six can be frozen ahead and stored in Kracker Keeper).\" Possibly means six balls (three batches) made ahead and frozen for an event. That reading isn't confirmed.",
+        "\"Put in refrigerator overnight\" was typed above \"Canister\" on the card. Steps put back in order.",
+        "No amounts on the card for the salts, pecans, or parsley. The amounts listed are best guesses from similar vintage cheese ball recipes. Start low on the salts, since the blue cheese and Old English are already salty, and taste before rolling."
+      ]
+    },
+    {
+      "id": "002",
+      "title": "Pumpkin Bread",
+      "category": "Breads",
+      "format": "Typed page",
+      "contributor": "",
+      "yield": "3 loaves, 9x5 pans (best guess)",
+      "photos": [
+        {
+          "src": "img/002-pumpkin-bread-page.jpg",
+          "label": "Typed page"
+        }
+      ],
+      "ingredients": [
+        "3-1/2 c. sugar",
+        "1 large can pumpkin",
+        "1 c. oil",
+        "5 c. sifted flour",
+        "1 tsp. salt",
+        "1 tsp. cloves",
+        "4 tsp. baking soda",
+        "1 c. nuts",
+        "2 c. chopped, cooked prunes"
+      ],
+      "steps": [
+        "Beat sugar, pumpkin and oil well.",
+        "Add flour sifted with salt, baking soda and cloves. The batter will be rather stiff.",
+        "Add nuts and prunes.",
+        "Put in 3 greased 9x5 loaf pans (best guess; card just says loaf pans) and bake at 350° for about 1-1/2 hours."
+      ],
+      "notes": [
+        "\"1 large can\" pumpkin was usually the 29 oz can."
+      ],
+      "flags": [
+        "Number of loaf pans isn't stated. Best guess is three 9x5 pans: similar recipes with 3 to 3-1/2 cups flour and about 2 cups pumpkin make two loaves in 1-1/2 hours, and this one is about half again bigger, with prunes and nuts on top. Fill pans about 2/3 full.",
+        "Same sheet as the Cheese Ball: this recipe is on one side and the Cheese Ball on the other. The \"(Continued)\" at the bottom points to the Cheese Ball side, so this recipe is complete. The Edi Dobbins stamp on the Cheese Ball side may cover this recipe too."
+      ]
+    },
+    {
+      "id": "003",
+      "title": "Date Bread or Pudding (partial)",
+      "category": "Desserts",
+      "format": "Typed page",
+      "contributor": "",
+      "yield": "",
+      "photos": [
+        {
+          "src": "img/002-pumpkin-bread-page.jpg",
+          "label": "Top of the Pumpkin Bread page"
+        },
+        {
+          "src": "img/003-date-closeup.jpg",
+          "label": "Close-up of the torn top edge showing \"1 c. sugar\""
+        }
+      ],
+      "ingredients": [
+        "1 c. sugar (last ingredient line; the rest is on an earlier sheet)"
+      ],
+      "steps": [
+        "Pour boiling water over dates and soda. Cool before combining with other ingredients.",
+        "Bake at 350° for 50 to 60 minutes."
+      ],
+      "notes": [
+        "Delicious served with whipped cream as a dessert, or cook in a loaf pan and slice as a bread. Ideal for buffets."
+      ],
+      "flags": [
+        "Only the end of this recipe is on this sheet (the Pumpkin Bread / Cheese Ball sheet). The title and ingredients must be on an earlier sheet in the box.",
+        "Second number in the bake time is under the tear. Most likely 60."
+      ]
+    },
+    {
+      "id": "004",
+      "title": "Banana Bread",
+      "category": "Breads",
+      "format": "Handwritten card",
+      "contributor": "Tammy Jones",
+      "yield": "1 loaf",
+      "photos": [
+        {
+          "src": "img/004-banana-bread-front.jpg",
+          "label": "Front"
+        },
+        {
+          "src": "img/004-banana-bread-back.jpg",
+          "label": "Back"
+        }
+      ],
+      "ingredients": [
+        "1-3/4 cup flour",
+        "2 tsp baking powder",
+        "1/4 tsp baking soda",
+        "1/2 tsp salt",
+        "1/3 cup butter",
+        "2/3 cup sugar",
+        "2 eggs, well beaten",
+        "2 to 3 bananas (overly ripe)"
+      ],
+      "steps": [
+        "Mix all dry ingredients except the sugar.",
+        "Beat butter, adding sugar while beating. Add eggs.",
+        "Add the flour mixture, then the bananas.",
+        "Heat oven to 350°. Grease a loaf pan and pour in the batter.",
+        "Bake for 1 hour."
+      ],
+      "notes": [
+        "Tammy's own recipe card, added to Grandma's box.",
+        "\"(Overly Ripe)\" was added later in a different blue pen, so someone baked from this card and adjusted it."
+      ],
+      "flags": [
+        "A few words after \"Bananas\" are scribbled out.",
+        "\"Pour\" runs off the edge of the card and was filled in."
+      ]
+    },
+    {
+      "id": "005",
+      "title": "Holiday Wreaths",
+      "category": "Desserts",
+      "format": "Printout",
+      "contributor": "Kellogg's (Kellogg Kitchens recipe)",
+      "date": "2011 or later (printout)",
+      "yield": "16 small wreaths, or 1 large ring",
+      "photos": [],
+      "ingredients": [
+        "1/3 cup margarine or butter",
+        "1 package (10 oz., about 40) regular marshmallows, or 4 cups miniature marshmallows",
+        "1 tsp. green food coloring",
+        "6 cups corn flakes or frosted flakes cereal",
+        "Red cinnamon candies",
+        "Prepared vanilla frosting"
+      ],
+      "steps": [
+        "Melt the margarine in a large saucepan over low heat. Add the marshmallows and stir until fully melted and smooth. Take off the heat and stir in the green coloring.",
+        "Stir in the cereal until it's evenly coated.",
+        "While the mixture is still warm, scoop it out in 1/4-cup portions with a measuring cup sprayed with cooking spray. With greased fingers, quickly shape each into a small wreath.",
+        "Stick on cinnamon candies with a dab of frosting. Store in a single layer in an airtight container."
+      ],
+      "notes": [
+        "Microwave option: heat the margarine and marshmallows on high about 2 minutes, stir, then 1 minute more. Stir smooth, add the coloring, and continue from step 2.",
+        "One large wreath: press the warm mixture into a greased 5-1/2 cup ring mold, or shape a ring on a serving plate. Unmold, dot with candies, and slice to serve.",
+        "Paste food coloring gives the best green, and fresh marshmallows work best.",
+        "Original is a printout from Kellogg's recipe site, dated 2011. Directions here are reworded; the printout photo isn't posted since it's Kellogg's page."
+      ],
+      "flags": [],
+      "time": "Prep 40 min · Total 1 hr 10 min"
+    },
+    {
+      "id": "006",
+      "title": "Melting Moments",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "Grandma Sharp",
+      "yield": "About 6 dozen sandwich cookies",
+      "time": "Chill 2 hr · Bake about 20 min",
+      "photos": [
+        {
+          "src": "img/006-melting-moments-front.jpg",
+          "label": "Front"
+        },
+        {
+          "src": "img/006-melting-moments-back.jpg",
+          "label": "Back"
+        }
+      ],
+      "ingredients": [
+        "1 cup soft butter",
+        "2 Tbs. powdered sugar",
+        "2 cups flour",
+        "Frosting: 1/4 cup butter",
+        "Frosting: 2 cups powdered sugar",
+        "Frosting: 1 Tbsp. milk",
+        "Frosting: red coloring and 1/8 tsp. vanilla",
+        "Frosting: green coloring and a few drops peppermint",
+        "Frosting: a few drops almond"
+      ],
+      "steps": [
+        "Cream the butter and powdered sugar. Blend in the flour, kneading with your hands as the dough gets too stiff.",
+        "Roll the dough into long rolls about as big around as a quarter. Wrap in wax paper or foil.",
+        "Chill in the refrigerator about 2 hours.",
+        "Unwrap and slice into thin slices. Bake on an ungreased cookie sheet at 300° for about 20 minutes, until lightly browned. Cool.",
+        "Frosting: beat the butter, powdered sugar and milk until smooth. Divide into 3 parts: tint one red with the vanilla, one green with the peppermint, and leave one white with the almond.",
+        "Put the cookies together in pairs with the frosting."
+      ],
+      "notes": [
+        "Grandma Sharp's handwriting. She spells it \"untill,\" which helps spot her other cards.",
+        "Written on the card: \"good, nice for Christmas.\"",
+        "Red, green and white frosting makes these a Christmas cookie tray.",
+        "Card is kept in a plastic sleeve."
+      ],
+      "flags": [
+        "The bake time reads \"about 20 min\" with the 20 written over another word. 20 minutes fits a slow 300° oven and thin slices.",
+        "Sugar is listed beside \"cream butter\" but not named in the step. Creaming it with the butter is the usual method."
+      ]
+    },
+    {
+      "id": "007",
+      "title": "Chewy Brownie Cookies",
+      "category": "Cookies",
+      "format": "Clipping",
+      "contributor": "Crisco (cut from packaging)",
+      "yield": "About 3 dozen cookies",
+      "time": "Bake 7 to 9 min per sheet",
+      "photos": [],
+      "ingredients": [
+        "2/3 cup (2/3 stick) Crisco shortening",
+        "1-1/2 cups firmly packed light brown sugar",
+        "1 tablespoon water",
+        "1 teaspoon vanilla",
+        "2 eggs",
+        "1-1/2 cups all-purpose flour",
+        "1/3 cup unsweetened baking cocoa",
+        "1/4 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups semi-sweet chocolate chips (12 oz. pkg.)"
+      ],
+      "steps": [
+        "Heat the oven to 375°. Lay out sheets of foil on the counter for cooling.",
+        "Beat the shortening, brown sugar, water and vanilla on medium speed until well blended. Beat in the eggs.",
+        "In another bowl, mix the flour, cocoa, baking soda and salt. Mix into the creamed mixture on low speed just until combined. Stir in the chocolate chips.",
+        "Drop rounded tablespoons of dough 2 inches apart on an ungreased baking sheet.",
+        "Bake one sheet at a time for 7 to 9 minutes, just until set. Don't overbake; they should still look soft. Cool 2 minutes on the sheet, then move to the foil to finish cooling."
+      ],
+      "notes": [
+        "Original is a recipe cut from a Crisco package. Directions here are reworded; the clipping photo isn't posted since it's Crisco's printed recipe."
+      ],
+      "flags": []
+    },
+    {
+      "id": "008",
+      "title": "Butter Cream Frosting",
+      "category": "Frostings",
+      "format": "Handwritten card",
+      "contributor": "Tammy Jones",
+      "yield": "Frosts about one cake (not stated)",
+      "photos": [
+        {
+          "src": "img/008-buttercream-frosting.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1 lb. powdered sugar",
+        "1/4 teaspoon salt",
+        "1/4 cup milk, plus a few drops if needed",
+        "1 teaspoon vanilla",
+        "1/3 cup soft butter or margarine (2/3 stick)"
+      ],
+      "steps": [
+        "Combine everything in a mixing bowl.",
+        "Beat with an electric mixer or a heavy spoon until smooth and creamy, scraping the bowl often.",
+        "If it's too stiff to spread easily, beat in a few drops of milk."
+      ],
+      "notes": [
+        "Written by Tammy on a printed \"Here's what's cookin'\" card, signed \"Recipe from: Tammy Jones.\"",
+        "Tammy thinks this frosting went with the cookie class, paired with Steve's dough (No. 010).",
+        "Pairs naturally with the cake cards in the box."
+      ],
+      "flags": [
+        "One word at the start is scribbled out before \"In a mixing bowl.\"",
+        "\"Serves\" is left blank. A pound of powdered sugar usually frosts a 9x13 or a two-layer 8-inch cake."
+      ]
+    },
+    {
+      "id": "009",
+      "title": "Old Time Cottage Cheese Cookies",
+      "category": "Cookies",
+      "format": "Handwritten note",
+      "contributor": "Tammy Jones (likely)",
+      "yield": "6 or more dozen (end of number is stained)",
+      "photos": [
+        {
+          "src": "img/009-cottage-cheese-cookies-front.jpg",
+          "label": "Front"
+        },
+        {
+          "src": "img/009-cottage-cheese-cookies-back.jpg",
+          "label": "Back"
+        }
+      ],
+      "ingredients": [
+        "1 cup butter or shortening",
+        "3/4 cup sugar (best guess; stained)",
+        "3/4 cup brown sugar",
+        "2 tsp. vanilla",
+        "2 eggs",
+        "1 cup cottage cheese",
+        "1/2 cup unsweetened cocoa",
+        "2-3/4 cups flour",
+        "1 tsp. baking powder",
+        "1/2 tsp. baking soda",
+        "1/2 cup chopped nuts",
+        "Powdered sugar, for rolling"
+      ],
+      "steps": [
+        "Cream together the butter, sugars, vanilla, eggs, cottage cheese and cocoa. Mix well and set aside.",
+        "Mix the baking powder, soda and flour. Add to the creamed mixture, add the nuts, and stir well.",
+        "Chill the dough in the freezer until firm enough to roll, about 1 hour (best guess).",
+        "Preheat the oven to 350° and lightly grease a cookie sheet.",
+        "Roll the dough into walnut-sized balls, then roll in powdered sugar. Place on the cookie sheet.",
+        "Bake at 350° for about 10 minutes (best guess; time is stained)."
+      ],
+      "notes": [
+        "Written on a notepad from William's work, so most likely Tammy's. Her newer cards sit at the front of the box.",
+        "\"Add nuts\" was squeezed into the margin beside the mixing step.",
+        "Rolled in powdered sugar, these bake up like chocolate crinkle cookies.",
+        "A recipe online matches this one almost exactly at half size (same flour, cocoa, cottage cheese, eggs, vanilla, leaveners and nuts), which backs up the readings above."
+      ],
+      "flags": [
+        "The white sugar amount is under a stain. The math on the back (3/4 + 3/4 = 1-1/2 cup) points to 3/4 cup each of white and brown sugar, and a nearly identical online recipe uses about the same total.",
+        "Bake time is stained; only a 1 survives. Similar recipes bake 10 minutes at 350°, so 10 minutes is the best guess.",
+        "Yield reads \"makes 6 to\" and the rest is stained.",
+        "Chill time isn't stated. Similar recipes chill 1 hour to overnight.",
+        "\"67 1/4\" written on the back doesn't appear to be part of the recipe."
+      ],
+      "time": "Chill about 1 hr · Bake about 10 min"
+    },
+    {
+      "id": "010",
+      "title": "Cookie Dough for Cookie Classes",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "Steve Jones",
+      "yield": "About 2 to 3 dozen 3-inch cut-outs (best guess)",
+      "photos": [
+        {
+          "src": "img/010-cookie-dough.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1 cup salted butter",
+        "1/2 cup sugar",
+        "2-1/4 cups flour",
+        "1/2 teaspoon salt",
+        "1 egg",
+        "1 teaspoon vanilla extract"
+      ],
+      "steps": [
+        "Let the butter soften. Beat the butter and sugar until light and fluffy, 2 to 3 minutes.",
+        "Beat in the egg and vanilla.",
+        "Whisk the flour and salt together, then mix them in on low just until the dough comes together.",
+        "Divide the dough in half, flatten each into a disc, wrap, and chill about 1 hour, until firm.",
+        "Heat the oven to 350°. Roll the dough about 1/4 inch thick on a lightly floured counter and cut into shapes.",
+        "Place 1 inch apart on an ungreased or parchment-lined cookie sheet. If the cut-outs get soft, chill the sheet 10 minutes so they hold their shape.",
+        "Bake 8 to 10 minutes, until the edges just start to turn golden. Cool 5 minutes on the sheet, then move to a rack.",
+        "Cool completely, then decorate with the Butter Cream Frosting (No. 008)."
+      ],
+      "notes": [
+        "Steve Jones is William's dad. Tammy was likely taking a cookie class, needed a dough recipe, and got this one from Steve.",
+        "Tammy thinks it was paired with her Butter Cream Frosting (No. 008) for the class.",
+        "Same printed \"Here's what's cookin'\" card style as Tammy's Butter Cream Frosting."
+      ],
+      "flags": [
+        "Title is faint and runs off the top corner. It reads like \"Cookie dough for cookie classes.\"",
+        "The card lists ingredients only. These directions are a best guess for a roll-and-cut butter cookie, written to go with the class frosting. If Steve or Tammy remembers how it was done, theirs replaces this."
+      ],
+      "time": "Chill 1 hr · Bake 8 to 10 min"
+    },
+    {
+      "id": "011",
+      "title": "Chocolate Chip Cookies",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "Grandma Sharp",
+      "yield": "6 dozen",
+      "time": "Bake about 10 min",
+      "photos": [
+        {
+          "src": "img/011-choc-chip-cookies.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1 c. shortening",
+        "3/4 c. brown sugar",
+        "3/4 c. white sugar",
+        "1 tsp. vanilla",
+        "1/2 tsp. water",
+        "2 eggs",
+        "2 c. flour",
+        "1 tsp. baking soda",
+        "1 tsp. salt",
+        "1 c. chocolate chips",
+        "1 c. nuts"
+      ],
+      "steps": [
+        "Heat the oven to 375°.",
+        "Cream the shortening, both sugars, vanilla, water and eggs until light and fluffy.",
+        "Mix the flour, soda and salt, and add to the creamed mixture.",
+        "Stir in the chocolate chips and nuts.",
+        "Drop by rounded teaspoons onto a cookie sheet (best guess; the card doesn't say).",
+        "Bake about 10 minutes, or until golden brown."
+      ],
+      "notes": [
+        "Grandma Sharp's handwriting, confirmed by Tammy. Like her Melting Moments card, she spells it \"untill.\"",
+        "Printed card with a little girl, kitten and puppy at a tea table, and an Israeli proverb about a shared table ending arguments.",
+        "Card is kept in a plastic sleeve."
+      ],
+      "flags": []
+    },
+    {
+      "id": "012",
+      "title": "No Bake Cookies",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "Grandma Sharp (likely)",
+      "yield": "",
+      "photos": [
+        {
+          "src": "img/012-no-bake-cookies.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1 pkg. butterscotch chips (or chocolate chips)",
+        "1/2 c. peanut butter",
+        "1 large can Chinese (chow mein) noodles",
+        "Salad-size (miniature) marshmallows, amount not given"
+      ],
+      "steps": [
+        "Melt the chips and peanut butter together and mix.",
+        "Put the noodles and marshmallows in a bowl. Pour the melted mixture over them and mix. Don't let the marshmallows melt.",
+        "Drop by teaspoons onto a cookie sheet and let cool until set."
+      ],
+      "notes": [
+        "Two hands on this card: Tammy thinks the printed title is her mom's writing, and the cursive recipe below is likely Grandma Sharp's. The recipe uses Grandma's habit of bracketing ingredients with an instruction beside them, and \"+\" for \"and.\"",
+        "This is the classic \"haystacks\" candy-cookie.",
+        "\"Choc chips or\" and the marshmallow line were added later in lighter pencil, so the original version was butterscotch and noodles only."
+      ],
+      "flags": [
+        "No marshmallow amount. Haystack recipes that add them usually use about 1 to 2 cups of miniatures.",
+        "Package and can sizes have changed over the years. A standard bag of chips is 10 to 11 oz, and a large can of chow mein noodles is about 5 oz."
+      ]
+    },
+    {
+      "id": "013",
+      "title": "Irresistible Peanut Butter Cookies",
+      "category": "Cookies",
+      "format": "Clipping",
+      "contributor": "Crisco (cut from packaging)",
+      "yield": "About 3 dozen cookies",
+      "time": "Bake 7 to 8 min per sheet",
+      "photos": [],
+      "ingredients": [
+        "3/4 cup creamy peanut butter (Jif)",
+        "1/2 cup (1/2 stick) Crisco shortening",
+        "1-1/4 cups firmly packed light brown sugar",
+        "3 tablespoons milk",
+        "1 tablespoon vanilla",
+        "1 egg",
+        "1-3/4 cups all-purpose flour",
+        "3/4 teaspoon salt",
+        "3/4 teaspoon baking soda"
+      ],
+      "steps": [
+        "Heat the oven to 375°. Lay out sheets of foil on the counter for cooling.",
+        "Beat the peanut butter, shortening, brown sugar, milk and vanilla on medium speed until well blended. Beat in the egg just until combined.",
+        "Mix the flour, salt and baking soda, and add to the creamed mixture on low speed just until blended.",
+        "Drop heaping teaspoons of dough 2 inches apart on an ungreased baking sheet. Press lightly with a fork in a crisscross pattern.",
+        "Bake 7 to 8 minutes, until set and just starting to brown. Cool 2 minutes on the sheet, then move to the foil to finish cooling."
+      ],
+      "notes": [
+        "Original is a recipe cut from a Crisco package, from the same series as the Chewy Brownie Cookies (No. 007). Directions here are reworded; the clipping photo isn't posted.",
+        "Tip printed on the card: to use Crisco in place of 1 cup butter or margarine, use 1 cup Crisco plus 6 teaspoons water."
+      ],
+      "flags": []
+    },
+    {
+      "id": "014",
+      "title": "Ultimate Chocolate Chip Cookies",
+      "category": "Cookies",
+      "format": "Clipping",
+      "contributor": "Crisco (cut from packaging)",
+      "yield": "About 3 dozen cookies",
+      "time": "Bake 8 to 10 min (chewy) or 11 to 13 min (crisp)",
+      "photos": [],
+      "ingredients": [
+        "3/4 cup (3/4 stick) Crisco shortening",
+        "1-1/4 cups firmly packed light brown sugar",
+        "2 tablespoons milk",
+        "1 tablespoon vanilla",
+        "1 egg",
+        "1-3/4 cups all-purpose flour",
+        "1 teaspoon salt",
+        "3/4 teaspoon baking soda",
+        "1 cup semi-sweet chocolate chips",
+        "1 cup coarsely chopped pecans (optional; if left out, add another 1/2 cup chips)"
+      ],
+      "steps": [
+        "Heat the oven to 375°. Lay out sheets of foil on the counter for cooling.",
+        "Beat the shortening, brown sugar, milk and vanilla on medium speed until well blended. Beat in the egg.",
+        "Mix the flour, salt and baking soda, and mix into the creamed mixture just until combined. Stir in the chips and pecans.",
+        "Drop rounded tablespoons of dough 3 inches apart on an ungreased baking sheet.",
+        "Bake one sheet at a time: 8 to 10 minutes for chewy cookies, or 11 to 13 minutes for crisp. Don't overbake. Cool 2 minutes on the sheet, then move to the foil."
+      ],
+      "notes": [
+        "Original is a recipe cut from a Crisco package, card 13 in the same series as No. 007 and No. 013. Directions here are reworded; the clipping photo isn't posted.",
+        "Compare with Grandma Sharp's own Chocolate Chip Cookies (No. 011)."
+      ],
+      "flags": []
+    },
+    {
+      "id": "015",
+      "title": "Rolled Sugar Cookies",
+      "category": "Cookies",
+      "format": "Newsletter clipping",
+      "contributor": "Diabetes camp newsletter",
+      "date": "About 1989",
+      "yield": "72 cookies",
+      "time": "Chill 2 hr to overnight · Bake about 10 min",
+      "photos": [],
+      "ingredients": [
+        "1/2 cup margarine",
+        "1/2 cup sugar",
+        "1 tsp. vanilla extract",
+        "1 egg",
+        "2 cups flour",
+        "2 tsp. baking powder"
+      ],
+      "steps": [
+        "Cream the margarine, sugar, vanilla and egg until light and fluffy.",
+        "Add the flour and baking powder and blend well.",
+        "Chill the dough 2 hours or overnight.",
+        "Roll out on a lightly floured counter to 1/8 inch thick and cut with cookie cutters.",
+        "Bake on an ungreased baking sheet at 375° until lightly browned, about 10 minutes. Cool before storing."
+      ],
+      "notes": [
+        "Clipped from a typed newsletter with a Christmas bell drawing. The other side reports on the 1989 \"Fun In The Sun\" diabetes camp at Lake Coeur d'Alene, which dates the clipping to about late 1989.",
+        "A slice-and-bake version of the same dough, with a Sugar Twin option, is No. 016.",
+        "Printed exchange info: 2 cookies = 1/2 starch and 1/2 fat exchange.",
+        "Directions reworded from the clipping."
+      ],
+      "flags": []
+    },
+    {
+      "id": "016",
+      "title": "Sugar Cookies (For Anyone or Diabetics)",
+      "category": "Cookies",
+      "format": "Newspaper clipping",
+      "contributor": "Newspaper clipping",
+      "yield": "About 3 dozen",
+      "time": "Chill 2 hr · Bake 10 min",
+      "photos": [],
+      "ingredients": [
+        "1/2 cup margarine",
+        "1/2 cup sugar, or 1/4 cup sugar plus 1/4 cup Sugar Twin",
+        "1 teaspoon vanilla",
+        "1 egg",
+        "2 cups flour",
+        "2 teaspoons baking powder",
+        "Sprinkles or frosting, to decorate"
+      ],
+      "steps": [
+        "Cream the margarine, sugar, vanilla and egg until light and fluffy. Blend in the flour and baking powder.",
+        "Shape the dough into a log about 10 inches long and 2 inches thick. Wrap in wax paper or foil and chill about 2 hours.",
+        "Slice 1/8 inch thick with a knife.",
+        "Bake on an ungreased cookie sheet at 375° for 10 minutes. Cool before storing, then decorate with sprinkles or frosting."
+      ],
+      "notes": [
+        "Same dough as the Rolled Sugar Cookies (No. 015), made as slice-and-bake instead of rolled and cut, with a Sugar Twin option to cut the sugar in half.",
+        "Directions reworded from the clipping."
+      ],
+      "flags": [
+        "A 10-inch log cut 1/8 inch thick gives far more than 3 dozen. Either the slices were meant to be thicker or the yield is understated."
+      ]
+    },
+    {
+      "id": "017",
+      "title": "Crisp Peanut Butter Sandwich Cookies",
+      "category": "Cookies",
+      "format": "Newspaper clipping",
+      "contributor": "Newspaper clipping",
+      "yield": "4 dozen cookies (2 dozen sandwiches)",
+      "time": "Chill overnight · Bake about 10 min",
+      "photos": [],
+      "ingredients": [
+        "1/2 cup shortening",
+        "1 cup sugar",
+        "1 tsp. vanilla",
+        "1 egg",
+        "1-3/4 cups sifted flour",
+        "1/2 tsp. salt",
+        "1/2 tsp. baking soda",
+        "Peanut butter, for the filling (amount not given)"
+      ],
+      "steps": [
+        "Cream the shortening, sugar and vanilla. Add the egg and mix well.",
+        "Sift the flour, salt and soda together and stir into the creamed mixture.",
+        "Divide the dough in half. On waxed paper, roll each half into a log 1-1/2 inches across. Wrap and chill overnight; the dough has to be firm to slice.",
+        "Slice one log at a time, thin, with a sharp knife. Bake 1 inch apart on an ungreased cookie sheet at 350° for about 10 minutes.",
+        "When cool, spread peanut butter on the bottom of half the cookies, top with the rest, bottom side down, and press gently."
+      ],
+      "notes": [
+        "The spelling \"cooky\" was common in newspaper recipes of the 1950s and '60s, so this clipping may be one of the older ones.",
+        "The dough itself has no peanut butter; it's all in the filling.",
+        "Directions reworded from the clipping."
+      ],
+      "flags": [
+        "No amount for the peanut butter filling. About 3/4 to 1 cup should fill 2 dozen sandwiches."
+      ]
+    }
+  ]
+}
