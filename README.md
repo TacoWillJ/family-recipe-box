@@ -8,3 +8,7 @@ Grandma Sharp's recipe box, typed up and searchable, with photos of the original
 
 To add a recipe, add an entry to `recipes.json` and its photos to `img/`.
 
+
+## Publishing
+
+The site is served from the `gh-pages` branch. After pushing to `main`, also run `git push origin main:gh-pages` or the website will not update.
