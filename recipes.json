@@ -1892,7 +1892,7 @@
     "3/4 c. cocoa",
     "4 c. powdered sugar",
     "1/2 c. butter or margarine",
-    "1 T. vanilla",
+    "1 tsp. vanilla",
     "1/2 c. evaporated milk"
    ],
    "steps": [
@@ -1903,7 +1903,7 @@
    ],
    "notes": [],
    "flags": [
-    "The vanilla looks like a capital T (tablespoon); 1 teaspoon is more usual."
+    "The card's vanilla looks like a capital T, but matching online Fluffy Cocoa Frosting recipes (same cocoa, sugar, butter and evaporated milk) all use 1 teaspoon, so that's listed here."
    ]
   },
   {
@@ -1913,7 +1913,7 @@
    "format": "Handwritten note",
    "contributor": "",
    "yield": "",
-   "time": "Bake 25 min",
+   "time": "Bake 25 min (cookies about 7 min)",
    "photos": [
     {
      "src": "img/051-sugarless-raisin-cake.jpg",
@@ -1943,11 +1943,11 @@
     "Spread in a greased pan and bake at 350° for 25 minutes."
    ],
    "notes": [
-    "Can also be dropped as cookies and baked at 350°.",
+    "Can also be dropped as cookies and baked at 350° for about 7 minutes.",
+    "Someone wrote \"Cheeseburger\" sideways down the right edge, no idea why.",
     "A diabetic-friendly recipe, like the others from the diabetes camp newsletter."
    ],
    "flags": [
-    "Something is written sideways down the right edge, maybe \"Use Sugar,\" next to a cookie time of about 7 minutes. Worth a second look.",
     "The flour number was written over; it looks like 2 cups.",
     "No amount for the nuts and no pan size."
    ]
@@ -1959,7 +1959,7 @@
    "format": "Printed recipe card",
    "contributor": "Elsie Kull",
    "yield": "",
-   "time": "",
+   "time": "Bake about 45 min (suggested)",
    "photos": [
     {
      "src": "img/052-apple-cake-pie.jpg",
@@ -1980,14 +1980,14 @@
    "steps": [
     "Put the apples in the bottom of a pie tin and sprinkle with cinnamon.",
     "Mix the flour, sugar, baking powder, salt, melted butter, egg and milk in a dish and pour over the apples.",
-    "Bake.",
+    "Bake at 350° for about 45 minutes, until golden brown. (The card gives no oven time; this comes from similar crustless apple pie recipes.)",
     "Serve warm or cold with a thin custard sauce or any kind of topping."
    ],
    "notes": [
     "Marked \"Good.\" From Elsie Kull."
    ],
    "flags": [
-    "No oven temperature or time; about 350° for 40 to 45 minutes is typical for this kind of cake-topped pie."
+    "The bake time and temperature aren't on the card. Similar Swedish/crustless apple pies bake at 350° for 45 minutes."
    ]
   },
   {
