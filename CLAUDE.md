@@ -11,6 +11,7 @@ Pushing only main leaves the website out of date.
 
 ## Adding photos
 
-New card photos: resize to max 1600px, then auto-crop the table with
-`python3 tools/autocrop.py <in_dir> <out_dir>` (trims only edge rows/cols that are mostly wood).
-Review the result before committing; skip the crop if it touches any text.
+New card photos: resize to max 1600px, then crop to the card with
+`tools/cardcrop.py` (`card_box(im)` finds the paper region at the photo's center; returns None if unsure,
+in which case keep the photo uncropped). `tools/autocrop.py` is an older edge-trimmer; it fails on photos
+with lots of table, so prefer cardcrop. Always review a contact sheet before committing; skip any crop that touches text.
