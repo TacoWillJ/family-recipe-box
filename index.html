@@ -108,7 +108,8 @@ figcaption{font-size:12.5px;color:var(--muted);margin-top:6px}
   .cols{grid-template-columns:minmax(0,2fr) minmax(0,3fr)!important;gap:24px}
   .ing{font-size:11.5pt}
   .ing li,.steps li{break-inside:avoid}
-  .photos-block,.notes-block{display:none!important}
+  .notes-block{display:none!important}
+  body:not(.print-photos) .photos-block{display:none}
   figure img{max-height:4.5in;width:auto;max-width:100%}
   a{color:#000;text-decoration:none}
 }
@@ -137,7 +138,7 @@ figcaption{font-size:12.5px;color:var(--muted);margin-top:6px}
 <script>
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let recipes=[],cat="All";
+let recipes=[],cat="All",printPhotos=false;
 
 function cats(){return ["All",...new Set(recipes.map(r=>r.category).filter(Boolean))]}
 function renderTabs(){
@@ -162,7 +163,7 @@ function renderList(){
 function renderDetail(r){
   const list=(a,cls)=>a.map(x=>`<li>${esc(x)}</li>`).join("");
   $("#detail").innerHTML=`
-    <div class="bar"><button class="back" id="back">← All recipes</button><div class="printctl"><button class="printbtn" id="print">Print recipe</button></div></div>
+    <div class="bar"><button class="back" id="back">← All recipes</button><div class="printctl"><label><input type="checkbox" id="withphoto"${printPhotos?" checked":""}> Include card photo</label><button class="printbtn" id="print">Print recipe</button></div></div>
     <article class="recipe">
       <span class="no">No. ${esc(r.id)} · ${esc(r.category)}</span>
       <h2>${esc(r.title)}</h2>
@@ -202,9 +203,10 @@ document.addEventListener("click",e=>{
   const i=e.target.closest(".item");
   if(i){location.hash="r-"+i.dataset.id;return}
   if(e.target.closest("#back")){location.hash="";route();return}
-  if(e.target.closest("#print")){window.print();}
+  if(e.target.closest("#print")){document.body.classList.toggle("print-photos",printPhotos);window.print();}
 });
 $("#q").addEventListener("input",renderList);
+document.addEventListener("change",e=>{if(e.target.id==="withphoto")printPhotos=e.target.checked;});
 window.addEventListener("hashchange",route);
 
 fetch("recipes.json").then(r=>r.json()).then(d=>{
