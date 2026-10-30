@@ -2358,6 +2358,365 @@
    "flags": [
     "No pan size; a 9x13 is typical."
    ]
+  },
+  {
+   "id": "063",
+   "title": "Fantasy Fudge",
+   "category": "Candy",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "",
+   "yield": "3 lbs.",
+   "time": "Boil 5 min",
+   "photos": [
+    {
+     "src": "img/063-fantasy-fudge.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "3 cups sugar",
+    "3/4 c. margarine",
+    "2/3 c. evaporated milk",
+    "1 (12 oz.) pkg. chocolate chips",
+    "1 (7 oz.) jar marshmallow creme",
+    "1 c. chopped nuts",
+    "1 tsp. vanilla"
+   ],
+   "steps": [
+    "Combine the sugar, margarine and evaporated milk in a heavy pan. Bring to a full boil, stirring.",
+    "Boil 5 minutes over medium heat, stirring. Remove from heat.",
+    "Add the chocolate chips and stir until melted.",
+    "Add the marshmallow creme, nuts and vanilla and beat until well blended.",
+    "Pour onto a cookie sheet or into a 13x9 pan. Cool at room temperature, then cut."
+   ],
+   "notes": [
+    "The classic marshmallow-creme fudge. The card has the girl-with-teapot picture and an Israeli proverb at the bottom."
+   ],
+   "flags": []
+  },
+  {
+   "id": "064",
+   "title": "English Toffee",
+   "category": "Candy",
+   "format": "Handwritten card, front and back",
+   "contributor": "SW",
+   "yield": "",
+   "time": "Cook to 300°",
+   "photos": [
+    {
+     "src": "img/064-english-toffee-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/064-english-toffee-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 cup sugar",
+    "1 cup butter",
+    "3 T. water",
+    "1 tsp. vanilla",
+    "4 bars (7/8 oz. each) milk chocolate",
+    "3/4 cup finely chopped nuts"
+   ],
+   "steps": [
+    "Combine the sugar, water and butter in a heavy saucepan.",
+    "Cook to 300° (hard crack stage), stirring constantly.",
+    "Add the vanilla and pour into a 9x9 pan.",
+    "Lay the chocolate bars on top and spread them evenly as they melt.",
+    "While still warm, sprinkle the chopped nuts over the top.",
+    "Cool thoroughly and break into pieces."
+   ],
+   "notes": [
+    "Signed \"SW\" at the bottom of the back."
+   ],
+   "flags": [
+    "Who is \"SW\"? Worth asking Tammy.",
+    "The chocolate reads \"4 7/8 oz. bars.\" It could mean four 7/8-oz. bars or bars totaling about 4 7/8 oz.; about 4 to 5 oz. of milk chocolate covers a 9x9 pan."
+   ]
+  },
+  {
+   "id": "065",
+   "title": "Fudge",
+   "category": "Candy",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/065-fudge.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 cups sugar",
+    "1/4 cup cocoa",
+    "2/3 cup milk",
+    "Pinch of salt",
+    "2 T. butter",
+    "1 tsp. vanilla",
+    "1 cup walnuts"
+   ],
+   "steps": [
+    "Mix the sugar, cocoa, milk and salt and boil until soft ball stage (about 234°).",
+    "Remove from the fire and add the butter, vanilla and nuts.",
+    "Beat until thick, pour into a buttered pan and cut into squares."
+   ],
+   "notes": [
+    "Old-fashioned cooked cocoa fudge, no thermometer needed if you use the cold-water test."
+   ],
+   "flags": [
+    "The cocoa amount is faint; it looks like 1/4 cup, though many versions use 1/2 cup."
+   ]
+  },
+  {
+   "id": "066",
+   "title": "Sister Mabel's Caramel Corn",
+   "category": "Candy",
+   "format": "Newspaper clipping",
+   "contributor": "Orville Redenbacher's sister Mabel",
+   "yield": "6 quarts",
+   "time": "Bake 1 hour at 200°",
+   "photos": [
+    {
+     "src": "img/066-sister-mabels-caramel-corn.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "2 cups light brown sugar, firmly packed",
+    "1/2 cup light corn syrup",
+    "1/2 pound margarine or butter",
+    "1/4 teaspoon cream of tartar",
+    "1 teaspoon salt",
+    "1 teaspoon baking soda",
+    "6 quarts popped popcorn"
+   ],
+   "steps": [
+    "In a 2 1/2-quart saucepan, combine the brown sugar, corn syrup, butter, cream of tartar and salt.",
+    "Bring to a boil over medium-high heat, stirring. Stirring constantly, boil rapidly to the hard-ball stage, 260° (about 5 minutes).",
+    "Remove from heat and stir in the baking soda quickly but thoroughly.",
+    "Pour at once over the popcorn in a large roasting or baking pan and stir gently until coated.",
+    "Bake at 200° for 1 hour, stirring 2 or 3 times.",
+    "Turn out at once onto wax paper, spread apart and cool completely. Break apart and store tightly covered."
+   ],
+   "notes": [
+    "Orville Redenbacher credited this to his sister Mabel and called it the best caramel corn he ever tasted."
+   ],
+   "flags": []
+  },
+  {
+   "id": "067",
+   "title": "Fondant",
+   "category": "Candy",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "Ripen 24 hrs",
+   "photos": [
+    {
+     "src": "img/067-fondant.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 cups sugar",
+    "2/3 cup water",
+    "1/8 tsp. cream of tartar",
+    "3/4 tsp. vanilla"
+   ],
+   "steps": [
+    "Place the sugar, water and cream of tartar in a pan and cook gently without stirring until it reaches soft ball stage.",
+    "Pour onto a plate and let cool.",
+    "Add the vanilla and knead until it becomes a white, creamy mass.",
+    "Let it ripen 24 hours before using."
+   ],
+   "notes": [
+    "Use it to stuff dates or make chocolate mint patties."
+   ],
+   "flags": [
+    "The card doesn't say when to add the vanilla; it's usually worked in during kneading."
+   ]
+  },
+  {
+   "id": "068",
+   "title": "Candied Walnuts",
+   "category": "Candy",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/068-candied-walnuts.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 cups sugar",
+    "1/2 cup liquid (see flavors)",
+    "1 tsp. white corn syrup",
+    "1/4 tsp. salt",
+    "2 1/2 cups walnuts"
+   ],
+   "steps": [
+    "Cook the sugar, liquid, corn syrup and salt to soft ball stage.",
+    "Add the walnuts and stir until creamy.",
+    "Turn out on waxed paper and separate with a fork."
+   ],
+   "notes": [
+    "Orange: use 1/2 cup orange juice and 6 drops orange coloring.",
+    "Mint: use 1/2 cup milk, 4 drops red coloring and 1 tsp. peppermint flavoring."
+   ],
+   "flags": []
+  },
+  {
+   "id": "069",
+   "title": "Candy Corn (Candied Popcorn)",
+   "category": "Candy",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "Newspaper",
+   "yield": "2 quarts",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/069-candy-corn.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1/2 c. sugar",
+    "2 T. butter",
+    "6 T. water",
+    "2 qts. popped popcorn"
+   ],
+   "steps": [
+    "Mix the sugar, butter and water in a saucepan.",
+    "Boil without stirring until threads form on the spoon when lifted.",
+    "Pour over the popcorn and stir until it's all coated."
+   ],
+   "notes": [
+    "It's sugar-glazed popcorn, not the Halloween candy. Recipe from \"(paper).\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "070",
+   "title": "Peanut Butter Cups (Bars)",
+   "category": "Candy",
+   "format": "Handwritten card, front and back",
+   "contributor": "",
+   "yield": "One 9x13 pan",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/070-peanut-butter-cups-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/070-peanut-butter-cups-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "2 cubes (1 cup) margarine, softened",
+    "1 box (1 lb.) powdered sugar",
+    "1 package graham crackers, crushed",
+    "1 1/2 c. peanut butter (chunky is good)",
+    "1 (12 oz.) pkg. chocolate chips"
+   ],
+   "steps": [
+    "Beat the powdered sugar into the soft margarine.",
+    "Mix in the graham cracker crumbs and peanut butter, and press into a 9x13 pan.",
+    "Melt the chocolate chips and spread over the mixture.",
+    "Cut before the chocolate cools completely (about 30 to 60 minutes)."
+   ],
+   "notes": [
+    "No-bake bars that taste like peanut butter cups."
+   ],
+   "flags": [
+    "\"1 package\" of graham crackers is probably one sleeve, about 1 1/2 cups crumbs."
+   ]
+  },
+  {
+   "id": "071",
+   "title": "Panocha",
+   "category": "Candy",
+   "format": "Handwritten card, front and back",
+   "contributor": "",
+   "yield": "",
+   "time": "About 20 min, then cool 1 hr",
+   "photos": [
+    {
+     "src": "img/071-panocha-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/071-panocha-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "2 T. butter",
+    "3/4 c. rich milk",
+    "1 c. brown sugar, packed",
+    "1 1/2 c. white sugar",
+    "1 tsp. vanilla",
+    "1/2 to 3/4 c. walnuts"
+   ],
+   "steps": [
+    "Melt the butter and spread it over the sides of the pan.",
+    "Pour in the milk and bring to a boil.",
+    "Add the sugars and dissolve. Cover and bring to a boil slowly, about 1 minute, until the sugar crystals melt off the sides of the pan.",
+    "Uncover and continue a gentle boil, stirring, to soft ball stage, 238° (about 20 minutes).",
+    "Remove from heat and cool to lukewarm, about 1 hour.",
+    "Add the vanilla and nuts and stir with a heavy spoon until creamy and it starts to lose its gloss.",
+    "Pour into a buttered pan and cut while still warm."
+   ],
+   "notes": [
+    "Marked \"good.\" Panocha is brown-sugar fudge."
+   ],
+   "flags": [
+    "No pan size given; an 8x8 buttered pan is typical."
+   ]
+  },
+  {
+   "id": "072",
+   "title": "Peanutty Caramel Corn",
+   "category": "Candy",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "About 2 pounds",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/072-peanutty-caramel-corn.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "2 quarts popped corn (about 1/2 cup unpopped)",
+    "3/4 cup sugar",
+    "3/4 cup packed brown sugar",
+    "1/2 cup light corn syrup",
+    "1/2 cup water",
+    "1 teaspoon white vinegar",
+    "1/4 teaspoon salt",
+    "3/4 cup butter or margarine",
+    "1 to 2 cups peanuts or other nuts"
+   ],
+   "steps": [
+    "Sort out the unpopped kernels and measure the popped corn into a large bowl.",
+    "Combine the sugars, corn syrup, water, vinegar and salt in a 2-quart saucepan. Heat to boiling over medium-high heat, stirring often.",
+    "Cook, stirring constantly, to 260° (hard ball stage).",
+    "Reduce heat to low and stir in the butter until melted. Add the peanuts and stir to coat.",
+    "Pour the syrup in a thin stream over the popcorn, stirring until well coated.",
+    "Spread on a 12x15 1/2-inch baking sheet. Cool and break into pieces."
+   ],
+   "notes": [],
+   "flags": []
   }
  ]
 }
