@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "recipes": [
   {
    "id": "001",
@@ -1729,6 +1729,634 @@
    ],
    "flags": [
     "The oatmeal amount is shown as three 1-cup measuring cups split across the front and back, so it reads as 3 cups."
+   ]
+  },
+  {
+   "id": "046",
+   "title": "Oatmeal Chocolate Chip Cake",
+   "category": "Cakes",
+   "format": "Handwritten card",
+   "contributor": "Ann Caldwell",
+   "yield": "",
+   "time": "Bake 40 min",
+   "photos": [
+    {
+     "src": "img/046-oatmeal-choc-chip-cake.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 3/4 c. boiling water",
+    "1 c. quick oats",
+    "1 c. brown sugar",
+    "1 c. sugar",
+    "1/2 c. margarine",
+    "2 eggs",
+    "1 3/4 c. flour",
+    "1 tsp. soda",
+    "1/2 tsp. salt",
+    "1 tbsp. cocoa",
+    "Chocolate chips",
+    "3/4 c. nuts"
+   ],
+   "steps": [
+    "Mix the boiling water and oats and let sit 10 minutes.",
+    "Add the brown sugar, sugar and margarine and stir until the margarine melts.",
+    "Add the eggs.",
+    "Mix the flour, soda, salt and cocoa and add to the batter.",
+    "Pour into a greased pan and sprinkle the chocolate chips and nuts over the top.",
+    "Bake at 350° for 40 minutes."
+   ],
+   "notes": [
+    "Marked \"(no frosting)\": the chips and nuts on top take its place.",
+    "Credited to Ann Caldwell at the top of the card."
+   ],
+   "flags": [
+    "No pan size on the card; a 9x13 pan is typical for this cake.",
+    "No amount for the chocolate chips; about 1 cup is typical."
+   ]
+  },
+  {
+   "id": "047",
+   "title": "Easy Chocolate Frosting",
+   "category": "Frostings",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "Frosting for one cake",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/047-choc-frosting-coconut-topping.jpg",
+     "label": "Card (with Quick Coconut Topping)"
+    }
+   ],
+   "ingredients": [
+    "3 or 4 squares unsweetened chocolate",
+    "3 tablespoons butter",
+    "3 1/2 cups (1-pound box) powdered sugar, strained",
+    "1/8 teaspoon salt",
+    "7 tablespoons milk",
+    "1 teaspoon vanilla"
+   ],
+   "steps": [
+    "Melt the chocolate and butter over hot water.",
+    "Blend the sugar, salt, milk and vanilla.",
+    "Add the hot chocolate mixture and mix well.",
+    "Let stand, stirring occasionally, until it's the right consistency to spread on cake."
+   ],
+   "notes": [
+    "Pasted on one card with Quick Coconut Topping (No. 048)."
+   ],
+   "flags": [
+    "The yield is cut off at the bottom of the clipping."
+   ]
+  },
+  {
+   "id": "048",
+   "title": "Quick Coconut Topping",
+   "category": "Frostings",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "Top of a 9x13 cake",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/047-choc-frosting-coconut-topping.jpg",
+     "label": "Card (with Easy Chocolate Frosting)"
+    }
+   ],
+   "ingredients": [
+    "6 tablespoons butter",
+    "1/2 cup packed brown sugar",
+    "1/4 cup evaporated milk",
+    "1 cup coconut",
+    "1/2 cup chopped nuts"
+   ],
+   "steps": [
+    "Melt the butter in a saucepan and stir in the brown sugar and evaporated milk.",
+    "Heat just to a boil, stirring.",
+    "Remove from heat and add the coconut and nuts."
+   ],
+   "notes": [
+    "Pasted on one card with Easy Chocolate Frosting (No. 047). Compare the Broiler Coconut Topping card (No. 061)."
+   ],
+   "flags": []
+  },
+  {
+   "id": "049",
+   "title": "Seven Minute Frosting",
+   "category": "Frostings",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "Enough for a 2-layer cake",
+   "time": "Beat 7 min",
+   "photos": [
+    {
+     "src": "img/049-seven-minute-frosting.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 egg whites",
+    "1 1/2 cups sugar",
+    "1/8 tsp. salt",
+    "1/4 tsp. cream of tartar",
+    "1/3 cup water",
+    "1 tsp. vanilla"
+   ],
+   "steps": [
+    "Combine everything but the vanilla in the top of a double boiler.",
+    "Beat over boiling water for seven minutes, until it stands in peaks.",
+    "Cool and add the vanilla."
+   ],
+   "notes": [
+    "Faint pencil, in a plastic sleeve."
+   ],
+   "flags": []
+  },
+  {
+   "id": "050",
+   "title": "Fluffy Cocoa Frosting",
+   "category": "Frostings",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "Fills and frosts two 9-inch layers",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/050-fluffy-cocoa-frosting.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "3/4 c. cocoa",
+    "4 c. powdered sugar",
+    "1/2 c. butter or margarine",
+    "1 T. vanilla",
+    "1/2 c. evaporated milk"
+   ],
+   "steps": [
+    "Mix the cocoa and powdered sugar.",
+    "Cream the butter with part of the sugar mixture.",
+    "Add the vanilla to half of the milk and add it.",
+    "Add the rest of the sugar mixture and milk and beat to the consistency you want. Use more milk if needed."
+   ],
+   "notes": [],
+   "flags": [
+    "The vanilla looks like a capital T (tablespoon); 1 teaspoon is more usual."
+   ]
+  },
+  {
+   "id": "051",
+   "title": "Sugarless Raisin Cake",
+   "category": "Cakes",
+   "format": "Handwritten note",
+   "contributor": "",
+   "yield": "",
+   "time": "Bake 25 min",
+   "photos": [
+    {
+     "src": "img/051-sugarless-raisin-cake.jpg",
+     "label": "Note"
+    }
+   ],
+   "ingredients": [
+    "1 1/4 c. water",
+    "1/3 c. salad oil",
+    "2 c. raisins",
+    "2 tsp. cinnamon",
+    "1/2 tsp. allspice",
+    "2 eggs, beaten",
+    "3 tsp. liquid artificial sweetener",
+    "2 tsp. water",
+    "1 tsp. baking powder",
+    "1/2 tsp. salt",
+    "1 tsp. baking soda",
+    "2 c. flour",
+    "Nuts"
+   ],
+   "steps": [
+    "Boil the water, oil, raisins, cinnamon and allspice for 3 minutes. Let cool.",
+    "Mix the sweetener, 2 tsp. water, baking powder, salt and soda until dissolved, and add to the beaten eggs.",
+    "Combine with the cooled raisin mixture.",
+    "Add the flour, then the nuts.",
+    "Spread in a greased pan and bake at 350° for 25 minutes."
+   ],
+   "notes": [
+    "Can also be dropped as cookies and baked at 350°.",
+    "A diabetic-friendly recipe, like the others from the diabetes camp newsletter."
+   ],
+   "flags": [
+    "Something is written sideways down the right edge, maybe \"Use Sugar,\" next to a cookie time of about 7 minutes. Worth a second look.",
+    "The flour number was written over; it looks like 2 cups.",
+    "No amount for the nuts and no pan size."
+   ]
+  },
+  {
+   "id": "052",
+   "title": "Apple Cake Pie",
+   "category": "Desserts",
+   "format": "Printed recipe card",
+   "contributor": "Elsie Kull",
+   "yield": "",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/052-apple-cake-pie.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "3 c. apples",
+    "Cinnamon",
+    "1 c. flour",
+    "2/3 c. sugar",
+    "1 tsp. baking powder",
+    "Pinch of salt",
+    "1/2 c. melted butter",
+    "1 egg",
+    "1/2 c. milk"
+   ],
+   "steps": [
+    "Put the apples in the bottom of a pie tin and sprinkle with cinnamon.",
+    "Mix the flour, sugar, baking powder, salt, melted butter, egg and milk in a dish and pour over the apples.",
+    "Bake.",
+    "Serve warm or cold with a thin custard sauce or any kind of topping."
+   ],
+   "notes": [
+    "Marked \"Good.\" From Elsie Kull."
+   ],
+   "flags": [
+    "No oven temperature or time; about 350° for 40 to 45 minutes is typical for this kind of cake-topped pie."
+   ]
+  },
+  {
+   "id": "053",
+   "title": "Boston Cream Pie",
+   "category": "Cakes",
+   "format": "Printed recipe card, front and back",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/053-boston-cream-pie-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/053-boston-cream-pie-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 small box yellow cake mix",
+    "Custard: 1/2 c. sugar, 3 T. flour, pinch of salt, 1 c. milk, 2 eggs, 2 T. butter, 1 tsp. vanilla",
+    "Glaze: 2 tsp. butter, chocolate chips, 1/2 c. powdered sugar, about 1 tbsp. boiling water"
+   ],
+   "steps": [
+    "Prepare the cake mix and bake in an 8-inch round pan. Cool, then split into two layers.",
+    "For the custard, mix the sugar, flour and salt and stir in the milk. Cook until it thickens.",
+    "Beat the eggs and blend in about half of the hot pudding, then stir it all back into the pan.",
+    "Cook, stirring, about 2 minutes until very thick. Remove from heat and stir in the butter and vanilla. Cover and chill.",
+    "Put the layers together with the custard filling.",
+    "For the glaze, melt the butter and chips, stir in the powdered sugar and about 1 tbsp. boiling water to make it spreadable. Spread over the top."
+   ],
+   "notes": [
+    "Shortcut: use 1 package of regular cook-type vanilla pudding instead, but with only 1 1/2 cups milk."
+   ],
+   "flags": [
+    "No amount for the chocolate chips in the glaze; about 1/2 cup is typical."
+   ]
+  },
+  {
+   "id": "054",
+   "title": "Apricot Cake",
+   "category": "Cakes",
+   "format": "Printed recipe card, front and back",
+   "contributor": "",
+   "yield": "",
+   "time": "Bake 1 hour",
+   "photos": [
+    {
+     "src": "img/054-apricot-cake-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/054-apricot-cake-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 quart apricots, juice and all",
+    "1 yellow cake mix",
+    "Nuts",
+    "Cinnamon",
+    "Coconut",
+    "1 c. melted margarine"
+   ],
+   "steps": [
+    "Pour the fruit and juice into a 9x13 pan.",
+    "Sprinkle the dry cake mix on top.",
+    "Put the coconut, nuts and cinnamon on the cake mix.",
+    "Drizzle the margarine on top.",
+    "Bake at 350° for 1 hour."
+   ],
+   "notes": [
+    "A dump cake. The card stock is dated 1986."
+   ],
+   "flags": []
+  },
+  {
+   "id": "055",
+   "title": "Fruit Cocktail Torte (Cake)",
+   "category": "Cakes",
+   "format": "Handwritten card and typed copy",
+   "contributor": "",
+   "yield": "",
+   "time": "Bake 35 min",
+   "photos": [
+    {
+     "src": "img/055-fruit-cocktail-torte-card.jpg",
+     "label": "Handwritten card"
+    },
+    {
+     "src": "img/055-fruit-cocktail-torte-typed.jpg",
+     "label": "Typed copy"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 c. flour",
+    "1 c. sugar",
+    "1 egg, slightly beaten",
+    "1 tsp. baking powder",
+    "1 tsp. soda",
+    "1/4 tsp. salt",
+    "1 can fruit cocktail, with juice",
+    "Topping: 1 c. brown sugar, 1/2 c. nuts"
+   ],
+   "steps": [
+    "Mix everything in one bowl and put in a 12x8 pan.",
+    "Sprinkle the top with the brown sugar and nuts.",
+    "Bake at 350° for 35 minutes.",
+    "Serve with whipped cream or ice cream."
+   ],
+   "notes": [
+    "The typed copy adds: \"Sounds weird with no shortening but this is right.\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "056",
+   "title": "Pineapple Upside-Down Cake",
+   "category": "Cakes",
+   "format": "Printed recipe card (Betty Crocker)",
+   "contributor": "Betty Crocker",
+   "yield": "",
+   "time": "Bake 40 to 45 min",
+   "photos": [
+    {
+     "src": "img/056-pineapple-upside-down.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1/4 cup butter or margarine",
+    "1 cup packed brown sugar",
+    "1 can (20 oz.) sliced pineapple in juice, drained, juice saved",
+    "1 jar (6 oz.) maraschino cherries, drained",
+    "1 package yellow cake mix",
+    "Oil and eggs as called for on the cake mix"
+   ],
+   "steps": [
+    "Heat the oven to 350°. Melt the butter in a 13x9 pan in the oven.",
+    "Sprinkle the brown sugar evenly over the butter. Arrange the pineapple and cherries on top and press gently.",
+    "Add water to the pineapple juice to make 1 1/4 cups.",
+    "Make the cake batter as the package says, but use the pineapple juice mixture instead of water. Pour over the fruit.",
+    "Bake 40 to 45 minutes, until a toothpick in the center comes out clean.",
+    "Immediately turn the pan upside down onto a heatproof plate and leave the pan over the cake 1 minute. Serve warm or cool."
+   ],
+   "notes": [
+    "High altitude (3500–6500 ft): grease and flour the pan, stir 3 Tbsp flour into the dry mix, and bake 45 to 50 minutes."
+   ],
+   "flags": []
+  },
+  {
+   "id": "057",
+   "title": "Pumpkin Pudding Cake",
+   "category": "Cakes",
+   "format": "Typed sheet",
+   "contributor": "Diabetic recipe sheet",
+   "yield": "24 one-inch slices",
+   "time": "Bake 40 to 45 min",
+   "photos": [
+    {
+     "src": "img/057-pumpkin-pudding-cake.jpg",
+     "label": "Sheet"
+    }
+   ],
+   "ingredients": [
+    "2 cups flour",
+    "3/4 cup sugar",
+    "1/2 tsp. baking soda",
+    "1 tsp. baking powder",
+    "1/2 tsp. cinnamon",
+    "1/4 tsp. cloves",
+    "1 cup cooked or canned pumpkin",
+    "1/3 cup vegetable oil",
+    "1 egg",
+    "1/2 cup raisins",
+    "1/2 cup chopped walnuts"
+   ],
+   "steps": [
+    "Combine all ingredients in a mixing bowl and beat 3 minutes.",
+    "Pour into a lightly oiled 3-quart ring mold or a cheesecake pan.",
+    "Bake at 350° for 40 to 45 minutes.",
+    "Cool 5 minutes in the pan.",
+    "Serve warm with a sprinkle of powdered sugar or a spoonful of vanilla yogurt."
+   ],
+   "notes": [
+    "From a diabetic recipe sheet: \"for occasional use.\" Exchanges per slice: 1 starch/bread, 1 fat."
+   ],
+   "flags": []
+  },
+  {
+   "id": "058",
+   "title": "Popcorn Cake",
+   "category": "Candy",
+   "format": "Handwritten note, front and back",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "photos": [
+    {
+     "src": "img/058-popcorn-cake-front.jpg",
+     "label": "Recipe"
+    },
+    {
+     "src": "img/058-popcorn-cake-back.jpg",
+     "label": "Title on the back"
+    }
+   ],
+   "ingredients": [
+    "16–20 cups popped popcorn (Orville Redenbacher)",
+    "1 large bag small marshmallows",
+    "1/2 c. corn oil (Mazola)",
+    "1 cube (1/2 cup) margarine",
+    "M&M's and peanuts (optional)"
+   ],
+   "steps": [
+    "Melt the marshmallows, oil and margarine together.",
+    "Pour over the popcorn and add M&M's and peanuts if you like.",
+    "Press into a buttered angel food cake pan or a buttered 9x13 pan."
+   ],
+   "notes": [
+    "Written on a Spokane towing company message slip, with \"Pop Corn Cake\" on the back."
+   ],
+   "flags": []
+  },
+  {
+   "id": "059",
+   "title": "Pound Cake",
+   "category": "Cakes",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "Bake 1 hr",
+   "photos": [
+    {
+     "src": "img/059-pound-cake.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "3/4 lb. butter",
+    "1 lb. box sugar",
+    "6 eggs",
+    "1 sugar box of flour",
+    "1 tsp. baking powder",
+    "1/2 tsp. salt"
+   ],
+   "steps": [
+    "Cream the butter and sugar.",
+    "Add the eggs one at a time.",
+    "Mix the flour, baking powder and salt and add.",
+    "Put in a cold oven, then bake 1 hour at 350°."
+   ],
+   "notes": [
+    "\"Sugar box of flour\" means refill the empty 1 lb. sugar box with flour, about 3 1/2 cups.",
+    "A cold-oven pound cake: the oven heats up with the cake inside."
+   ],
+   "flags": [
+    "No pan on the card; a greased and floured tube or Bundt pan is typical."
+   ]
+  },
+  {
+   "id": "060",
+   "title": "Classic Gingerbread",
+   "category": "Cakes",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "8 servings",
+   "time": "Bake 50 to 55 min",
+   "photos": [
+    {
+     "src": "img/060-classic-gingerbread.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "2 1/2 cups sifted flour",
+    "1 1/2 teaspoons soda",
+    "1 teaspoon ginger",
+    "1 teaspoon cinnamon",
+    "1/2 teaspoon cloves",
+    "1/4 teaspoon salt",
+    "1/2 cup shortening",
+    "1/2 cup sugar",
+    "1 egg",
+    "1 cup molasses",
+    "1 cup hot water"
+   ],
+   "steps": [
+    "Sift the dry ingredients and set aside.",
+    "Cream the shortening and sugar. Add the egg and beat until light and fluffy. Beat in the molasses.",
+    "Stir in the dry ingredients alternately with the hot water, mixing just until smooth.",
+    "Turn into a greased 9-inch square pan and bake at 350° for 50 to 55 minutes.",
+    "Cut in squares and serve warm or cold, with whipped cream if you like."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "061",
+   "title": "Broiler Coconut Topping",
+   "category": "Frostings",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "Broil 2 to 3 min",
+   "photos": [
+    {
+     "src": "img/061-broiler-coconut-topping.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "6 tbsp. butter",
+    "3/4 c. brown sugar",
+    "1/2 c. chopped nuts",
+    "1 c. coconut",
+    "1/4 c. milk or cream"
+   ],
+   "steps": [
+    "Blend everything and spoon on top of the cake.",
+    "Place under the broiler 2 to 3 minutes, until bubbly and toasted."
+   ],
+   "notes": [
+    "Probably the topping for the Oatmeal Cake (No. 062), which says \"topping on.\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "062",
+   "title": "Oatmeal Cake",
+   "category": "Cakes",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "Mrs. Anna Heath",
+   "yield": "",
+   "time": "Bake 40 min",
+   "photos": [
+    {
+     "src": "img/062-oatmeal-cake.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 c. quick oats",
+    "1 1/4 c. boiling water",
+    "1/2 c. shortening",
+    "1 c. sugar",
+    "1 c. brown sugar",
+    "2 eggs",
+    "1 1/3 c. flour",
+    "1 tsp. soda",
+    "1 tsp. salt",
+    "1 tsp. cinnamon"
+   ],
+   "steps": [
+    "Combine the oats and boiling water and let sit 20 minutes.",
+    "Cream the shortening, sugar and brown sugar.",
+    "Beat the eggs and add.",
+    "Sift the flour, soda, salt and cinnamon and add to the creamed mixture.",
+    "Stir in the oatmeal.",
+    "Pour into a pan and bake at 350° for 40 minutes."
+   ],
+   "notes": [
+    "Marked \"good.\" From Mrs. Anna Heath.",
+    "\"Topping on\" is circled in the corner. The Broiler Coconut Topping (No. 061) is the classic topping for this cake."
+   ],
+   "flags": [
+    "No pan size; a 9x13 is typical."
    ]
   }
  ]
