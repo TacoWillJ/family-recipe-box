@@ -2696,6 +2696,10 @@
     {
      "src": "img/072-peanutty-caramel-corn.jpg",
      "label": "Clipping"
+    },
+    {
+     "src": "img/072-peanutty-caramel-corn-2.jpg",
+     "label": "A second copy, found later in the box"
     }
    ],
    "ingredients": [
@@ -4069,6 +4073,601 @@
     "The title is handwritten on the card above the taped-on recipe."
    ],
    "flags": []
+  },
+  {
+   "id": "110",
+   "title": "Rhubarb Crisp",
+   "category": "Desserts",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/110-rhubarb-crisp.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 eggs",
+    "1 1/2 c. sugar",
+    "4 tbsp. flour",
+    "6 c. rhubarb",
+    "Topping: 8 tbsp. butter, 2/3 c. brown sugar, 1 1/3 c. flour"
+   ],
+   "steps": [
+    "Beat the eggs. Add the sugar, then the flour, then the rhubarb.",
+    "Spread the rhubarb mixture in a pan.",
+    "Mix the butter, brown sugar and flour until crumbly, and sprinkle over the rhubarb mix in the pan.",
+    "Bake at 350° for 40 minutes."
+   ],
+   "notes": [
+    "Same \"'Tis substantial happiness to eat\" card stock as Violet Sharp's Lasagne (No. 097), though no name is filled in."
+   ],
+   "flags": [
+    "No pan size; a 9x13 is typical for 6 cups of rhubarb.",
+    "The brown sugar amount is written over; 2/3 cup is the best reading."
+   ]
+  },
+  {
+   "id": "111",
+   "title": "Raised Doughnuts",
+   "category": "Breads",
+   "format": "Newspaper clipping on a card, front and back",
+   "contributor": "Newspaper clipping",
+   "yield": "4 dozen",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/111-raised-doughnuts-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/111-raised-doughnuts-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "3 medium potatoes",
+    "2 cups boiling salted water",
+    "3/4 cup sugar",
+    "1 tsp. salt",
+    "About 6 cups sifted enriched flour",
+    "1 pkg. or cake yeast, active dry or compressed",
+    "1/4 cup warm (not hot) water, or lukewarm for compressed yeast",
+    "1/2 cup soft margarine or butter",
+    "2 eggs",
+    "1/2 tsp. nutmeg (optional)",
+    "About 1/2 cup sugar, for coating",
+    "Fat for deep frying"
+   ],
+   "steps": [
+    "Peel the potatoes and cook in the boiling salted water until tender. Drain, saving 1 cup of the water.",
+    "Pour that water into a large mixing bowl. Stir in the sugar, salt and 1 cup of flour, and beat until smooth.",
+    "Sprinkle or crumble the yeast into the 1/4 cup water and stir until dissolved, then beat into the batter. Cover with a cloth and let rise in a warm place, free from draft, until bubbly.",
+    "Meanwhile, mash the hot potatoes in their pan. Measure 1 cup and return to the saucepan. Beat in the margarine, eggs and nutmeg.",
+    "When the batter is full of bubbles, stir in the potato mixture and the remaining flour, or enough to make a stiff dough.",
+    "Knead on a floured board 8 to 10 minutes until smooth and elastic.",
+    "Place in a greased bowl and brush the top with soft or melted shortening. Let rise in a warm place until doubled. Punch down, cover, and refrigerate.",
+    "About 2 hours before serving, remove the dough. Cut in half and roll each half 1/3\" thick on a floured board. Cut with a doughnut cutter or into 2-inch squares.",
+    "Place on a floured board, cover with a cloth, and let rise in a warm place until light and doubled.",
+    "Slip into deep fat heated to 365°F. As soon as they rise to the top, turn with a long-handled fork to brown the other side.",
+    "Drain on paper towels. Shake a few at a time in a paper bag with about 1/2 cup sugar."
+   ],
+   "notes": [
+    "Potato doughnuts: the potato water and mashed potato keep them soft."
+   ],
+   "flags": []
+  },
+  {
+   "id": "112",
+   "title": "Bread (and Rolls)",
+   "category": "Breads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/112-bread.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 c. milk",
+    "3 T sugar",
+    "2 1/2 t salt",
+    "6 T shortening",
+    "1 pkg. yeast",
+    "1 c. warm water",
+    "6 c. flour"
+   ],
+   "steps": [
+    "Combine all the ingredients into a dough.",
+    "For rolls, use more sugar and add an egg."
+   ],
+   "notes": [
+    "\"+ Sweet dough\" was written next to the title and then crossed out."
+   ],
+   "flags": [
+    "No directions, rising times, or baking temperature and time on the card."
+   ]
+  },
+  {
+   "id": "113",
+   "title": "Corn Bread",
+   "category": "Breads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/113-corn-bread.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 c. corn meal",
+    "1 c. flour",
+    "1/2 t. salt",
+    "4 t. baking powder",
+    "1 egg",
+    "1 c. milk",
+    "1/4 c. salad oil"
+   ],
+   "steps": [
+    "Sift the corn meal, flour, salt and baking powder together.",
+    "Add the egg, milk and oil, and mix until smooth.",
+    "Bake at 425° for 20 to 25 minutes."
+   ],
+   "notes": [],
+   "flags": [
+    "No pan size; an 8- or 9-inch square pan is typical."
+   ]
+  },
+  {
+   "id": "114",
+   "title": "Apple Spice Muffins",
+   "category": "Breads",
+   "format": "Cut from packaging (Kretschmer Wheat Germ), taped to a card",
+   "contributor": "Kretschmer Wheat Germ",
+   "yield": "1 dozen",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/114-apple-spice-muffins.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 cups all-purpose flour",
+    "1/2 cup Kretschmer Original Wheat Germ",
+    "1/2 cup sugar (divided)",
+    "1 tablespoon baking powder",
+    "1 1/4 teaspoons cinnamon (divided)",
+    "1/2 teaspoon salt (optional)",
+    "1 cup peeled chopped apple",
+    "1 cup 2% low-fat milk",
+    "1/4 cup vegetable oil",
+    "1 egg",
+    "1/3 cup chopped nuts",
+    "2 tablespoons margarine or butter, melted"
+   ],
+   "steps": [
+    "Heat oven to 400°F. Grease the bottoms only of 12 medium muffin cups, or line with paper cups.",
+    "Combine the flour, wheat germ, 1/4 cup of the sugar, baking powder, 3/4 teaspoon of the cinnamon and the salt. Stir in the apple.",
+    "Add the milk, oil and egg, combined, mixing just until the dry ingredients are moistened. Fill the cups almost full.",
+    "Combine the remaining 1/4 cup sugar, 1/2 teaspoon cinnamon, the nuts and the melted margarine. Sprinkle over the muffins.",
+    "Bake 20 to 25 minutes, until golden brown."
+   ],
+   "notes": [
+    "To freeze: wrap in foil or a freezer bag, up to 3 months. Reheat a frozen muffin wrapped in a paper towel, about 45 seconds to 1 minute on high in the microwave."
+   ],
+   "flags": []
+  },
+  {
+   "id": "115",
+   "title": "Indian Fried Bread",
+   "category": "Breads",
+   "format": "Printed recipe card",
+   "contributor": "Evelyn Shea",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/115-indian-fried-bread.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 C flour",
+    "2 t baking powder",
+    "1/2 t salt",
+    "1 egg",
+    "A small amount of milk",
+    "Fat for frying",
+    "Jam and honey, to serve"
+   ],
+   "steps": [
+    "Sift the flour, baking powder and salt into a bowl.",
+    "Add the egg and a small amount of milk until it forms a soft ball.",
+    "Form into patties about 4\" across.",
+    "Melt fat in a pan about 1\" deep, enough to float the bread as it cooks. Fry to golden brown.",
+    "Serve with jam and honey."
+   ],
+   "notes": [
+    "\"From: Evelyn Shea.\" This is fry bread."
+   ],
+   "flags": [
+    "The last name could read \"Shea\" or \"Ahea\"."
+   ]
+  },
+  {
+   "id": "116",
+   "title": "Baking Powder Biscuits",
+   "category": "Breads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/116-baking-powder-biscuits.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 c. flour",
+    "1 c. shortening",
+    "4 t. baking powder",
+    "1/2 t. salt",
+    "2/3 c. milk"
+   ],
+   "steps": [
+    "Mix the dry ingredients and cut in the shortening until crumbly.",
+    "Add the milk and drop on a cookie sheet, or roll out and cut as for cookies.",
+    "Bake at 400° about 25 minutes."
+   ],
+   "notes": [],
+   "flags": [
+    "1 cup of shortening is a lot for 2 cups of flour; most biscuit recipes use about 1/3 cup. It may be a slip for 1/3.",
+    "25 minutes is long for biscuits; check them at 12 to 15."
+   ]
+  },
+  {
+   "id": "117",
+   "title": "Bran Muffins",
+   "category": "Breads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/117-bran-muffins.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 C flour",
+    "3 t. baking powder",
+    "1/2 t. salt",
+    "2 T. sugar",
+    "1 egg",
+    "2/3 C milk",
+    "3 T melted shortening",
+    "1 C bran flakes"
+   ],
+   "steps": [
+    "Mix the flour, baking powder, salt and sugar.",
+    "Add the egg, milk and melted shortening.",
+    "Add the bran last.",
+    "Put in muffin tins and bake at 400° for 20 to 25 minutes."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "118",
+   "title": "Sweet Roll Dough",
+   "category": "Breads",
+   "format": "Handwritten card, front and back",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/118-sweet-roll-dough-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/118-sweet-roll-dough-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1/2 c. warm water",
+    "2 pkg. yeast",
+    "1 1/2 c. lukewarm milk",
+    "1/2 c. sugar",
+    "2 t. salt",
+    "2 eggs",
+    "1/2 c. oil (or soft shortening)",
+    "About 7 to 7 1/2 c. flour",
+    "Thin powdered sugar frosting (optional)"
+   ],
+   "steps": [
+    "Mix the warm water and yeast and let the yeast dissolve.",
+    "Mix the milk, sugar, salt, eggs and oil and add to the yeast.",
+    "Add about 7 or 7 1/2 cups flour and mix. Leave the dough sticky.",
+    "Let rise, then roll into shapes.",
+    "If desired, spread with a thin powdered sugar frosting."
+   ],
+   "notes": [],
+   "flags": [
+    "No baking temperature or time; 350° for about 20 minutes is typical for sweet rolls."
+   ]
+  },
+  {
+   "id": "119",
+   "title": "Apple-Flapjack Coffee Cake",
+   "category": "Cakes",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/119-apple-flapjack-coffee-cake.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 cup pancake mix",
+    "1/2 cup sugar",
+    "1 cup finely diced raw apples",
+    "1/3 cup oil",
+    "1/3 cup milk",
+    "1 egg",
+    "Topping: 1/4 cup brown sugar, 1/4 cup pancake mix, 1/2 t. cinnamon, 1/4 t. nutmeg, 2 t. shortening, 1/4 cup nuts"
+   ],
+   "steps": [
+    "Mix the pancake mix, sugar and apples in a bowl.",
+    "Beat the oil, milk and egg together and add to the above. Blend well.",
+    "Pour into an 8\" square pan.",
+    "Sprinkle with the topping ingredients.",
+    "Bake at 375° for 25 to 30 minutes."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "120",
+   "title": "Apple Pudding",
+   "category": "Desserts",
+   "format": "Typed card (blue paper)",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/120-apple-pudding.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 cups sugar",
+    "2 rounded T. soft butter",
+    "2 eggs",
+    "Dash salt",
+    "2 t. baking powder",
+    "2 cups flour",
+    "4 cups sliced apples",
+    "Cinnamon sugar"
+   ],
+   "steps": [
+    "Mix the ingredients in the order given, then add the apples.",
+    "Place all in a greased 9x13 pan and sprinkle with cinnamon sugar.",
+    "Bake at 350° for 30 minutes."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "121",
+   "title": "Huckleberry Dumplings",
+   "category": "Desserts",
+   "format": "Printed recipe card, front and back",
+   "contributor": "",
+   "yield": "6 dumplings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/121-huckleberry-dumplings-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/121-huckleberry-dumplings-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "2 1/2 C huckleberries or blueberries",
+    "1/3 C sugar",
+    "Few grains salt",
+    "1 C water",
+    "1 tbsp lemon juice",
+    "Dumplings: 1 C flour, 2 tbsp sugar, 1/4 tsp salt, 2 tsp baking powder, 1 tbsp butter, 1/2 C milk"
+   ],
+   "steps": [
+    "Bring the berries, sugar, salt and water to a boil. Cover and simmer 5 minutes.",
+    "Add the lemon juice.",
+    "Mix the flour, sugar, salt, baking powder and butter until crumbly. Add the milk.",
+    "Drop the batter into the bubbly berries (6 dumplings).",
+    "Keep covered and cook on low heat 10 minutes."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "122",
+   "title": "Butter Dips Rolls",
+   "category": "Breads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/122-butter-dips-rolls.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 1/4 cups flour",
+    "1 T sugar",
+    "3 1/2 t baking powder",
+    "1 1/2 t salt",
+    "1 cup milk",
+    "Melted butter"
+   ],
+   "steps": [
+    "Sift the flour, sugar, baking powder and salt together.",
+    "Add the milk and stir until the dough clings together.",
+    "Knead lightly on a board. Roll 1/2\" thick and cut in bars 3\" x 1\".",
+    "Roll in melted butter.",
+    "Bake at 450° for 15 to 20 minutes."
+   ],
+   "notes": [],
+   "flags": [
+    "No amount for the butter; about 1/3 cup melted is typical for butter dips."
+   ]
+  },
+  {
+   "id": "123",
+   "title": "Potato Puff Balls",
+   "category": "Breads",
+   "format": "Newspaper clipping on a \"Here's what's cookin'\" card",
+   "contributor": "Newspaper clipping",
+   "yield": "2 dozen buns",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/123-potato-puff-balls.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 cup milk, scalded",
+    "1 tbsp. sugar",
+    "3 tbsps. shortening",
+    "2 tsps. salt",
+    "1 cake compressed yeast",
+    "2 eggs, well beaten",
+    "3/4 cup cooked, riced potatoes (3 small potatoes)",
+    "4 cups sifted enriched flour"
+   ],
+   "steps": [
+    "Pour the scalded milk over the sugar, shortening and salt; cool to lukewarm. Dissolve the yeast in it.",
+    "Add the eggs and cooled potatoes. Add about half the flour and beat until smooth. Add the rest of the flour and mix thoroughly.",
+    "Knead on a floured board about 5 minutes. Place in a greased bowl, cover, and let rise in a warm place (80° to 85°F) 1 1/2 to 1 3/4 hours.",
+    "Roll to 1/2-inch thickness and cut with a 2 1/2-inch cutter. Place on a greased cookie sheet, cover, and let rise 1 1/2 hours.",
+    "Bake at 425°F for 10 to 15 minutes."
+   ],
+   "notes": [
+    "\"Potato Rolls\" is handwritten as the card's title."
+   ],
+   "flags": []
+  },
+  {
+   "id": "124",
+   "title": "Pop-Up Bread (Cheese Coffee-Can Bread)",
+   "category": "Breads",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "2 loaves",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/124-pop-up-and-no-knead-bread.jpg",
+     "label": "Clipping (shared with No-Knead White Bread)"
+    }
+   ],
+   "ingredients": [
+    "3 to 3 1/2 cups flour",
+    "1 package active dry yeast",
+    "1/2 cup milk",
+    "1/2 cup water",
+    "1/2 cup salad oil",
+    "1/4 cup sugar",
+    "1 teaspoon salt",
+    "2 eggs",
+    "1 cup grated cheddar cheese"
+   ],
+   "steps": [
+    "Stir together 1 1/2 cups flour and the yeast.",
+    "Heat the milk, water, oil, sugar and salt over low heat only until warm, stirring to blend. Add to the flour mixture and beat until smooth, about 2 minutes on medium speed or 300 strokes by hand.",
+    "Blend in the eggs and cheese. Stir in flour to make a stiff batter. Beat until smooth and elastic, about 1 minute on medium or 150 strokes by hand.",
+    "Divide between two well-greased 1-pound coffee cans and cover with the plastic lids. Let rise in a warm place (80 to 85°) until light and bubbly, about 1 hour; the batter should be 1/4 to 1/2 inch below the lids.",
+    "Remove the lids and bake at 375° for 30 to 35 minutes. Cool in the cans 15 minutes before removing."
+   ],
+   "notes": [
+    "Baked in coffee cans, so the loaves rise up out of the can."
+   ],
+   "flags": [
+    "The milk, water, oil and sugar fractions are faint; 1/2, 1/2, 1/2 and 1/4 cup are the best readings."
+   ]
+  },
+  {
+   "id": "125",
+   "title": "No-Knead White Bread (partial)",
+   "category": "Breads",
+   "format": "Newspaper clipping",
+   "contributor": "Newspaper clipping",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/124-pop-up-and-no-knead-bread.jpg",
+     "label": "Clipping (shared with Pop-Up Bread)"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 cups warm water",
+    "1 package active dry yeast",
+    "2 tablespoons soft shortening",
+    "2 teaspoons salt",
+    "2 tablespoons sugar",
+    "3 cups sifted flour"
+   ],
+   "steps": [
+    "In a mixer bowl, dissolve the yeast in the warm water. Add the shortening, salt, sugar and half the flour.",
+    "Beat 2 minutes at medium speed or 300 hand strokes, scraping the bowl often. Stir in the remaining flour and beat with a spoon until smooth, 1 to 1 1/2 minutes.",
+    "Scrape the batter from the sides of the bowl. Cover and let rise in a warm place until double, about 30 minutes.",
+    "Stir hard for half a minute. Spread the sticky batter evenly in a greased 9x5-inch loaf pan. Smooth the top and pat into shape with a floured hand.",
+    "Let rise in a warm place until the batter… (the clipping is cut off here)."
+   ],
+   "notes": [],
+   "flags": [
+    "The end of the recipe is missing: the second rise and the baking temperature and time. 375° for 40 to 50 minutes is typical."
+   ]
   }
  ]
 }
