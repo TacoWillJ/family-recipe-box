@@ -641,6 +641,194 @@
       "flags": [
         "No amount for the peanut butter filling. About 3/4 to 1 cup should fill 2 dozen sandwiches."
       ]
+    },
+    {
+      "id": "018",
+      "title": "No-Bake Cookie Balls",
+      "category": "Cookies",
+      "format": "Newspaper clipping",
+      "contributor": "Newspaper clipping",
+      "yield": "4 dozen",
+      "time": "Boil 1 min",
+      "photos": [],
+      "ingredients": [
+        "2 cups sugar",
+        "1/4 cup cocoa",
+        "1/2 cup milk",
+        "1 stick butter",
+        "1/2 cup peanut butter",
+        "1 tsp. vanilla",
+        "3 cups rolled oats"
+      ],
+      "steps": [
+        "Bring the sugar, cocoa and milk to a boil in a saucepan and boil 1 minute.",
+        "Take off the heat and stir in the butter, peanut butter, vanilla and oats.",
+        "Roll into balls. Store at room temperature."
+      ],
+      "notes": [
+        "The classic chocolate-oatmeal no-bake, shaped into balls here instead of dropped. Compare with the haystack-style No Bake Cookies (No. 012).",
+        "Directions reworded from the clipping."
+      ],
+      "flags": []
+    },
+    {
+      "id": "019",
+      "title": "Oatmeal Ice Box Cookies",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "",
+      "yield": "",
+      "time": "Chill · Bake 10 to 12 min",
+      "photos": [
+        {
+          "src": "img/019-oatmeal-icebox-cookies.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1/2 c. butter",
+        "1/2 c. shortening",
+        "1 c. brown sugar",
+        "1 c. white sugar",
+        "2 eggs, beaten",
+        "1-1/2 c. flour",
+        "1 tsp. soda",
+        "1 tsp. salt",
+        "3 c. oatmeal",
+        "1/2 c. coconut",
+        "1/2 c. walnuts"
+      ],
+      "steps": [
+        "Mix the ingredients in the order listed.",
+        "Roll into logs and chill until firm, then slice.",
+        "Bake at 375° for 10 to 12 minutes."
+      ],
+      "notes": [
+        "Written at the top: \"Very good (Margaret).\" \"Ice box\" is the old name for slice-and-bake cookies chilled in the refrigerator."
+      ],
+      "flags": [
+        "\"Slice\" and the \"min\" after the bake time run off the right edge of the card.",
+        "Not clear whether Margaret gave the recipe or just gave it her stamp of approval. Does the family know a Margaret?"
+      ]
+    },
+    {
+      "id": "020",
+      "title": "Zucchini-Nut Cookies",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "Fran Harmon",
+      "yield": "",
+      "time": "Bake 10 min",
+      "photos": [
+        {
+          "src": "img/020-zucchini-nut-cookies.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1/2 c. shortening",
+        "1/2 c. sugar",
+        "1/2 c. brown sugar",
+        "1 c. grated zucchini",
+        "2 c. flour",
+        "1 tsp. soda",
+        "1 tsp. cinnamon",
+        "1/2 tsp. nutmeg",
+        "1/4 tsp. salt",
+        "1 c. chopped nuts"
+      ],
+      "steps": [
+        "Cream the shortening and both sugars.",
+        "Add the grated zucchini.",
+        "Mix the flour, soda, cinnamon, nutmeg and salt, and add.",
+        "Stir in the chopped nuts.",
+        "Drop onto a greased baking tin and bake at 325° for 10 minutes."
+      ],
+      "notes": [
+        "Circled at the top: \"From Fran Harmon.\""
+      ],
+      "flags": [
+        "There's no egg in this recipe; the zucchini supplies the moisture. That's as written, not a missed line.",
+        "Name reads \"Harmon\" or \"Harman.\""
+      ]
+    },
+    {
+      "id": "021",
+      "title": "Applesauce Drop Cookies",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "",
+      "yield": "",
+      "time": "Bake about 15 min",
+      "photos": [
+        {
+          "src": "img/021-applesauce-drop-cookies.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1/2 cup shortening",
+        "1 cup sugar",
+        "1 egg",
+        "1-1/4 cups applesauce",
+        "2-1/2 cups flour",
+        "1 tsp. soda",
+        "1 tsp. cinnamon",
+        "1/4 tsp. cloves",
+        "1 tsp. salt",
+        "1 cup raisins",
+        "1/2 cup nuts"
+      ],
+      "steps": [
+        "Cream the shortening and sugar together. Add the egg.",
+        "Mix the flour, soda, cinnamon, cloves and salt.",
+        "Add the flour mixture and applesauce to the creamed mixture alternately.",
+        "Stir in the raisins and nuts last.",
+        "Drop and bake at 400° for about 15 minutes."
+      ],
+      "notes": [],
+      "flags": [
+        "The writing is faint. The first line reads as 1/2 cup shortening."
+      ]
+    },
+    {
+      "id": "022",
+      "title": "Pumpkin Cookies",
+      "category": "Cookies",
+      "format": "Handwritten card",
+      "contributor": "",
+      "yield": "",
+      "time": "Bake 10 to 12 min",
+      "photos": [
+        {
+          "src": "img/022-pumpkin-cookies.jpg",
+          "label": "Card"
+        }
+      ],
+      "ingredients": [
+        "1 c. margarine",
+        "1 c. sugar",
+        "1 c. pumpkin",
+        "1 egg",
+        "2 c. flour",
+        "1 tsp. soda",
+        "1 tsp. cinnamon",
+        "1/2 tsp. salt",
+        "1 c. raisins (optional)",
+        "Nuts (optional)"
+      ],
+      "steps": [
+        "Cream the margarine and sugar. Beat in the pumpkin and egg.",
+        "Stir the flour, soda, cinnamon and salt into the creamed mixture.",
+        "Stir in the raisins and nuts, if using.",
+        "Drop onto a greased cookie sheet and bake at 375° for 10 to 12 minutes."
+      ],
+      "notes": [
+        "Same printed \"Here's what's cookin'\" card series as Tammy's frosting and Steve's dough cards, in green."
+      ],
+      "flags": [
+        "Raisins and nuts both have question marks after them, so the writer seems to have treated them as optional. No amount for the nuts; about 1/2 cup is typical."
+      ]
     }
   ]
 }
