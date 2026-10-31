@@ -6342,6 +6342,567 @@
     "Four Bean Salad: add 1 1-pound can garbanzo beans, drained."
    ],
    "flags": []
+  },
+  {
+   "id": "172",
+   "title": "Lemon Cucumbers",
+   "category": "Salads",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/172-lemon-cucumbers.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "Cucumbers",
+    "Lemon juice",
+    "Olive oil",
+    "Salt",
+    "Pepper",
+    "Garlic (sprinkle over top)"
+   ],
+   "steps": [
+    "Slice the cucumbers and toss with lemon juice, olive oil, salt and pepper.",
+    "Sprinkle garlic over the top."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "No amounts or directions on the card; mix to taste."
+   ]
+  },
+  {
+   "id": "173",
+   "title": "Beet Pickles",
+   "category": "Pickles & Preserves",
+   "format": "Printed recipe card",
+   "contributor": "Mrs. Lass",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/173-beet-pickles.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 C sugar",
+    "2 C water",
+    "2 C vinegar",
+    "1 lemon",
+    "1 tbsp cinnamon",
+    "1 tsp cloves",
+    "1 tsp allspice",
+    "Beets, cooked and sliced or diced"
+   ],
+   "steps": [
+    "Mix the sugar, water, vinegar, lemon and spices and bring to a boil.",
+    "Add the cooked, sliced or diced beets and simmer for 15 minutes.",
+    "Put in hot sterilized jars and seal."
+   ],
+   "notes": [
+    "Spelled \"Picklos\" on the card."
+   ],
+   "flags": [
+    "The contributor's name could read Lass or Lase.",
+    "No amount of beets; this much syrup covers several pounds.",
+    "For shelf storage, today's guidance is to process filled jars in a boiling-water bath."
+   ]
+  },
+  {
+   "id": "174",
+   "title": "Golden Glow Relish",
+   "category": "Pickles & Preserves",
+   "format": "Printed recipe card",
+   "contributor": "Bernita Jones, in Iowa",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/174-golden-glow-relish.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "6 lbs green cukes",
+    "6 lg onions",
+    "3 red peppers, sweet",
+    "1/4 C salt",
+    "2 C white sugar",
+    "2 C brown sugar",
+    "2 C vinegar",
+    "1 tsp turmeric",
+    "1 tsp celery seed",
+    "1 tsp mustard seed"
+   ],
+   "steps": [
+    "Grind the cucumbers, onions and peppers and add the salt. Let stand about 12 hours.",
+    "Drain, and add the sugars, vinegar and spices.",
+    "Cook for 20 minutes and seal in jars."
+   ],
+   "notes": [
+    "\"From Bernita Jones in Iowa.\""
+   ],
+   "flags": [
+    "For shelf storage, today's guidance is to process filled jars in a boiling-water bath."
+   ]
+  },
+  {
+   "id": "175",
+   "title": "Hot Tea Punch",
+   "category": "Beverages",
+   "format": "Printed \"Here's what's cookin'\" card, front and back",
+   "contributor": "Linda Cummings",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/175-hot-tea-punch-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/175-hot-tea-punch-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 tsp whole cloves",
+    "1 stick cinnamon",
+    "1/2 tsp allspice",
+    "1 gal water",
+    "2 1/2 T tea leaves (or 3 tea bags)",
+    "1 can, or more, frozen orange juice",
+    "1 can frozen lemonade",
+    "1 1/2 C sugar"
+   ],
+   "steps": [
+    "Tie the spices loosely in a bag and bring to a boil in the water.",
+    "Add the tea (tied loosely in a bag) and steep 5 minutes. Remove the bags.",
+    "Add the juices and sugar, bring to a boil, and serve."
+   ],
+   "notes": [
+    "May be made ahead and stored in the refrigerator. Reheat when ready to serve.",
+    "From Linda Cummings, who also gave the Strawberry Squares (No. 162)."
+   ],
+   "flags": []
+  },
+  {
+   "id": "176",
+   "title": "Slow Cooker Pasta Fagioli Soup",
+   "category": "Soups",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/176-pasta-fagioli-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/176-pasta-fagioli-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 tablespoon extra virgin olive oil",
+    "1 lb ground beef",
+    "2 whole carrots, diced",
+    "4 celery stalks, diced",
+    "1 medium onion, diced",
+    "28 oz can crushed tomatoes",
+    "2 cans (14.5 oz) beef broth",
+    "2 whole bay leaves",
+    "1 tsp dried oregano",
+    "1 tsp dried basil",
+    "1/2 tsp dried thyme",
+    "Salt and pepper to taste",
+    "1 (15 oz) can cannellini beans, drained and rinsed",
+    "1 (15 oz) can red kidney beans, drained and rinsed",
+    "1 cup ditalini noodles"
+   ],
+   "steps": [
+    "Add the olive oil to a large skillet. Add the ground beef and cook until fully browned.",
+    "Place the beef in the slow cooker with the rest of the ingredients except the beans and noodles.",
+    "Cook on low 7 to 8 hours or on high 3 to 4 hours.",
+    "Put the beans and noodles in a half hour before done.",
+    "Remove the bay leaves before serving."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers).",
+    "Signed off with a heart and \"yummy.\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "177",
+   "title": "Zuppa Toscana Soup",
+   "category": "Soups",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/177-zuppa-toscana-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/177-zuppa-toscana-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 lb ground mild Italian sausage",
+    "2 large russet baking potatoes, sliced",
+    "1 lg onion, chopped",
+    "2 cloves minced garlic",
+    "4 cups kale, torn by hand",
+    "2 cans chicken broth",
+    "4 cups water",
+    "1 cup heavy whipping cream",
+    "1 tsp red pepper flakes"
+   ],
+   "steps": [
+    "Fry the sausage, drain, and set aside.",
+    "In a large pot, add the onion, potatoes, garlic, broth and water. Bring to a boil, then reduce to medium heat. Cook until the potatoes are done (30 min).",
+    "Add the sausage and let boil about 10 minutes.",
+    "Add the kale (not the stems) and let simmer 25 minutes.",
+    "Bring down to low heat. Add the whipping cream and red pepper flakes and heat through, about another 15 minutes."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers).",
+    "A copy of the Olive Garden soup."
+   ],
+   "flags": []
+  },
+  {
+   "id": "178",
+   "title": "Noodles",
+   "category": "Sides",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/178-noodles.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 eggs, beaten",
+    "1 T milk",
+    "1/2 tsp salt",
+    "1 1/2 C flour, plus enough to make it very stiff"
+   ],
+   "steps": [
+    "Mix the eggs and milk.",
+    "Add the salt and enough flour to make a very stiff dough.",
+    "Roll out, cut in 1/4\" strips, and dry at least 2 hours.",
+    "Cook in chicken or beef broth."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "179",
+   "title": "Spätzle",
+   "category": "Sides",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/179-spaetzle.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 C flour",
+    "3 eggs",
+    "1/2 C water",
+    "Salt",
+    "Butter and bread crumbs, to finish"
+   ],
+   "steps": [
+    "Mix and push through a spätzle machine or colander into boiling water.",
+    "Fry in butter and sprinkle with bread crumbs.",
+    "Serve with Porcupines."
+   ],
+   "notes": [
+    "The Porcupines are No. 096 and No. 105, whose card also says they're \"real good with spätzle.\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "180",
+   "title": "French Fries (Low Calorie)",
+   "category": "Sides",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/180-french-fries.jpg",
+     "label": "Card (blurry)"
+    }
+   ],
+   "ingredients": [
+    "3 large potatoes, cut in strips",
+    "1 T oil",
+    "1 T water"
+   ],
+   "steps": [
+    "Heat oven to 475°.",
+    "Cut the potatoes in strips and drop them in a bowl with the oil and water.",
+    "Stir the potatoes until well coated.",
+    "Bake about 35 minutes in a hot oven and serve hot."
+   ],
+   "notes": [
+    "Will serve 4 or 5 people."
+   ],
+   "flags": [
+    "The photo is too blurry to read with confidence; all amounts, the temperature and the time are best guesses. A retake would fix it."
+   ]
+  },
+  {
+   "id": "181",
+   "title": "Special Potato Soup",
+   "category": "Soups",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "Violet Sharp (Grandma Sharp)",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/181-special-potato-soup.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "Potatoes",
+    "Onions",
+    "Celery",
+    "Carrots",
+    "Clams",
+    "Milk"
+   ],
+   "steps": [
+    "Cook the potatoes, onions, celery and carrots together, in proportion.",
+    "For the potato soup, then add the clams and milk.",
+    "Thicken a little."
+   ],
+   "notes": [
+    "\"Recipe from: Vi Sharp.\" Really a clam chowder."
+   ],
+   "flags": [
+    "No amounts on the card."
+   ]
+  },
+  {
+   "id": "182",
+   "title": "Medley Vegetable Soup",
+   "category": "Soups",
+   "format": "Typed sheet",
+   "contributor": "American Diabetes Association, Special Celebrations and Parties Cookbook (1989)",
+   "yield": "12 half-cup servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/182-medley-vegetable-soup.jpg",
+     "label": "Sheet"
+    }
+   ],
+   "ingredients": [
+    "4 cups chicken broth",
+    "1 turnip, peeled and diced",
+    "1 parsnip, peeled and diced",
+    "1 medium zucchini, sliced",
+    "6 carrots, peeled and sliced",
+    "2 stalks celery, chopped",
+    "1 cup fresh or frozen green beans, chopped",
+    "1/4 cup chopped onion",
+    "1 cup fresh parsley sprigs",
+    "1 bay leaf",
+    "8 whole peppercorns",
+    "2 Tbsp fresh minced tarragon leaves, or 1 Tbsp dried"
+   ],
+   "steps": [
+    "Combine all ingredients in a saucepan or slow cooker.",
+    "Cook until the vegetables are tender."
+   ],
+   "notes": [
+    "Exchange: 1 vegetable."
+   ],
+   "flags": []
+  },
+  {
+   "id": "183",
+   "title": "Apple Butter",
+   "category": "Pickles & Preserves",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/183-apple-butter-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/183-apple-butter-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "6 1/2 lbs apples (Gala), peeled, cored and sliced",
+    "1/2 cup sugar",
+    "1/2 cup brown sugar",
+    "1 1/2 tbsp cinnamon",
+    "1/4 teaspoon salt",
+    "1 tbsp vanilla"
+   ],
+   "steps": [
+    "Place the apples in the slow cooker. Add the sugars, cinnamon, salt and vanilla and mix well.",
+    "Cook on low for about 10 hours, stirring every 2 hours. It should be thick and dark brown.",
+    "Use a blender to puree until smooth.",
+    "Cover and refrigerate up to 2 weeks, or freeze."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "The brown sugar line says just \"1/2\"; cup assumed."
+   ]
+  },
+  {
+   "id": "184",
+   "title": "Cabbage Soup (7-Day Diet)",
+   "category": "Soups",
+   "format": "Typed sheet",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/184-cabbage-soup-diet.jpg",
+     "label": "Sheet"
+    }
+   ],
+   "ingredients": [
+    "1 head cabbage",
+    "2 large onions",
+    "1 bunch celery",
+    "2 green peppers",
+    "1 or 2 cans tomatoes",
+    "1 pkg Lipton onion soup mix",
+    "Bouillon cubes"
+   ],
+   "steps": [
+    "Cut up the ingredients and cover with water.",
+    "Bring to a boil and boil 10 minutes.",
+    "Simmer about 2 hours, or until the vegetables are tender."
+   ],
+   "notes": [
+    "The sheet is the old \"cabbage soup diet\": this soup plus a day-by-day eating plan for a week. Only the soup is typed up here; the photo shows the rest."
+   ],
+   "flags": [
+    "The ingredient list at the top is badly faded; it's read from what's visible plus the usual version of this recipe."
+   ]
+  },
+  {
+   "id": "185",
+   "title": "Texas Roadhouse Honey Butter",
+   "category": "Pickles & Preserves",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/185-honey-butter.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 sticks butter (very soft)",
+    "1 cup powdered sugar",
+    "1 cup honey",
+    "2 tsp cinnamon"
+   ],
+   "steps": [
+    "Mix well."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": []
+  },
+  {
+   "id": "186",
+   "title": "Chex Mix",
+   "category": "Appetizers",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/186-chex-mix-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/186-chex-mix-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "3 cups Corn Chex",
+    "3 cups Rice Chex",
+    "3 cups Wheat Chex",
+    "1 cup peanuts",
+    "1 cup pretzel sticks",
+    "6 tbsp butter (melted)",
+    "2 tbsp Worcestershire sauce",
+    "1 tbsp liquid smoke",
+    "1 1/2 tsp Lawry's seasoning salt",
+    "3/4 tsp garlic powder",
+    "1/2 tsp onion powder"
+   ],
+   "steps": [
+    "Preheat oven to 250°.",
+    "In a large aluminum tin, mix the cereal, nuts and pretzels.",
+    "Add the liquids and seasonings to the melted butter and stir together.",
+    "Pour over the cereal, nuts and pretzels until covered.",
+    "Bake, stirring every ten minutes, for 50 minutes."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": []
   }
  ]
 }
