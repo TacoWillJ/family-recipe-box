@@ -6958,6 +6958,10 @@
      "label": "Vi Sharp's card (from Vicki)"
     },
     {
+     "src": "img/190-cheese-balls-vicki.jpg",
+     "label": "Back of Vi Sharp's card (Cheese Balls)"
+    },
+    {
      "src": "img/188-chip-clam-dip.jpg",
      "label": "Pencil note from the box"
     }
@@ -6981,11 +6985,10 @@
     "\"Recipe from the kitchen of: Vi Sharp.\" Vicki sent a photo of the card; she makes it a lot.",
     "It answers the garlic question: both, garlic powder and garlic salt, plus onion powder and onion salt, all to taste.",
     "Tammy's version leaves out the clams and uses onion powder in place of the chopped onion.",
-    "The pencil note in the box is the same recipe as a bare ingredient list."
+    "The pencil note in the box is the same recipe as a bare ingredient list.",
+    "The back of the card has Vi Sharp's Cheese Balls recipe (see No. 190)."
    ],
-   "flags": [
-    "The card says \"over\" at the bottom; if there's anything on the back, it'd be worth a photo."
-   ]
+   "flags": []
   },
   {
    "id": "189",
@@ -7052,7 +7055,7 @@
     },
     {
      "src": "img/190-cheese-balls-vicki.jpg",
-     "label": "Third copy with exact amounts (from Vicki)"
+     "label": "Written on the back of Vi Sharp's Chip Dip card, with exact amounts (from Vicki)"
     }
    ],
    "ingredients": [
@@ -7074,7 +7077,7 @@
     "\"Recipe from the kitchen of: Vi Sharp.\" Makes about 2 baseball-size balls.",
     "A second copy says it came from a Tupperware demonstrator.",
     "Different from the Cheese Ball (No. 001) from Edi Dobbins.",
-    "Vicki sent a third copy that spells out the amounts: 1/2 cup each of blue cheese and Old English, and 1 tsp each of A-1, garlic salt and onion salt."
+    "Vicki's copy is written on the back of Vi Sharp's Chip Dip (Clam) card (No. 188) and spells out the amounts: 1/2 cup each of blue cheese and Old English, and 1 tsp each of A-1, garlic salt and onion salt."
    ],
    "flags": []
   },
