@@ -5738,6 +5738,14 @@
     {
      "src": "img/155-cranberry-delight.jpg",
      "label": "Clipping"
+    },
+    {
+     "src": "img/155-cranberry-delight-card-front.jpg",
+     "label": "Handwritten copy, front"
+    },
+    {
+     "src": "img/155-cranberry-delight-card-back.jpg",
+     "label": "Handwritten copy, back"
     }
    ],
    "ingredients": [
@@ -5759,7 +5767,8 @@
     "Pour into an 8-cup mold and chill until firm. Unmold onto a serving plate and garnish with fresh strawberries if desired."
    ],
    "notes": [
-    "A molded gelatin salad, the holiday kind."
+    "A molded gelatin salad, the holiday kind.",
+    "A handwritten copy is also in the box, titled \"Jello salad, Cranberry Delight,\" from \"a magazine,\" marked \"Good, Thanksgiving & Christmas or anytime.\""
    ],
    "flags": []
   },
@@ -5872,6 +5881,465 @@
    ],
    "notes": [
     "34% fewer calories than the traditional recipe. 202 calories per serving."
+   ],
+   "flags": []
+  },
+  {
+   "id": "159",
+   "title": "Lemon Cream Freeze",
+   "category": "Desserts",
+   "format": "Printed recipe card, front and back",
+   "contributor": "",
+   "yield": "6 to 8 servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/159-lemon-cream-freeze-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/159-lemon-cream-freeze-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "3 eggs, separated",
+    "1/2 C sugar",
+    "1 C whipping cream",
+    "Lemon juice and grated rind",
+    "1/2 C graham cracker crumbs (1/4 C for the pan, 1/4 C for the top)"
+   ],
+   "steps": [
+    "Beat the egg whites, adding the sugar while beating, until stiff and glossy.",
+    "Beat the egg yolks until thick and carefully fold into the egg whites.",
+    "Whip the cream until soft peaks form. Add the lemon juice and rind and beat until stiff peaks. Fold into the egg mixture.",
+    "Sprinkle 1/4 C graham cracker crumbs over the bottom of a greased 8\" square pan.",
+    "Spoon the egg and cream mixture over the crumbs and top with the other 1/4 C crumbs.",
+    "Refrigerate or freeze."
+   ],
+   "notes": [
+    "The eggs aren't cooked; pasteurized eggs are the safe choice today."
+   ],
+   "flags": [
+    "No amounts for the lemon juice and rind; about 1/3 cup juice and 1 tsp grated rind is typical."
+   ]
+  },
+  {
+   "id": "160",
+   "title": "Danish Puffs",
+   "category": "Breads",
+   "format": "Newspaper clipping on a card",
+   "contributor": "Newspaper clipping",
+   "yield": "12 to 16 servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/160-danish-puffs.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 cup butter, divided",
+    "2 cups sifted flour, divided",
+    "2 tablespoons cold water",
+    "1 cup water",
+    "1 1/4 teaspoons almond extract",
+    "3 eggs",
+    "Frosting: 1 cup powdered sugar, 1/2 teaspoon vanilla, dash of salt, 1 to 2 tablespoons milk"
+   ],
+   "steps": [
+    "Cut 1/2 cup butter into 1 cup flour until it resembles coarse meal. Stir in the cold water and work the dough until blended.",
+    "Shape into a ball and divide in half. Pat each half into a 3x12-inch oblong on a baking sheet.",
+    "Bring 1 cup water and the remaining 1/2 cup butter to a boil in a saucepan. Remove from heat and add the almond extract. Quickly stir in the remaining 1 cup flour.",
+    "Add the eggs one at a time, beating well with a spoon after each. Spread this thick mixture over the oblongs.",
+    "Bake at 400° for about 45 minutes, until puffed and golden.",
+    "Meanwhile, blend the powdered sugar, vanilla, salt and enough milk to spread. Frost the pastries while hot. Cut in slices and serve warm."
+   ],
+   "notes": [
+    "Also known as Danish puff or almond puff loaf: a pastry base with a cream-puff topping."
+   ],
+   "flags": []
+  },
+  {
+   "id": "161",
+   "title": "Doritos Taco Salad",
+   "category": "Salads",
+   "format": "Handwritten striped card, plus an earlier note on Vision MS notepad paper",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/161-doritos-taco-salad-card.jpg",
+     "label": "Tammy's card"
+    },
+    {
+     "src": "img/161-doritos-taco-salad-note.jpg",
+     "label": "Earlier note"
+    }
+   ],
+   "ingredients": [
+    "1 lb lean ground beef",
+    "1 pk taco seasoning",
+    "1 large bag of iceberg lettuce",
+    "4 oz cheddar cheese",
+    "4 oz crushed Nacho Doritos",
+    "Dressing of your choice (the note uses Miracle Whip and ketchup)"
+   ],
+   "steps": [
+    "Brown the ground beef, add the taco seasoning, and set aside.",
+    "In a large bowl, add the lettuce, cheese, ground beef and Doritos.",
+    "Add whatever dressing you choose to top."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers).",
+    "The short note on Vision MS paper lists iceberg lettuce, Miracle Whip, ketchup, cheddar and Nacho Doritos, initialed \"GB.\""
+   ],
+   "flags": [
+    "Who \"GB\" on the note is isn't known."
+   ]
+  },
+  {
+   "id": "162",
+   "title": "Strawberry Squares",
+   "category": "Desserts",
+   "format": "Printed \"Here's what's cookin'\" card, folded",
+   "contributor": "Linda Cummings",
+   "yield": "12+",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/162-strawberry-squares.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "Crust: 1 c. flour, 1/4 c. brown sugar, 1/2 c. walnuts, 1/2 c. butter",
+    "2 egg whites",
+    "1 c. white sugar (2/3 c. if frozen berries are used)",
+    "2 T. lemon juice",
+    "2 c. fresh or 10 oz. frozen strawberries",
+    "Whipped cream"
+   ],
+   "steps": [
+    "Mix the flour, brown sugar, walnuts and butter and press into a 13x9x2 pan.",
+    "Bake 20 minutes at 350°, stirring frequently for even browning. Reserve 1/3 of the crumbs for the top.",
+    "Combine the egg whites, sugar, lemon juice and strawberries and beat on high speed 10 minutes.",
+    "Fold in whipped cream. Spoon over the crust and sprinkle the rest of the crumbs over the top.",
+    "Freeze at least 6 hours before serving."
+   ],
+   "notes": [
+    "\"Very rich!\"",
+    "\"Stir frequently\" means the crust is baked as loose crumbs, then pressed in."
+   ],
+   "flags": [
+    "The contributor's name could read Linda or Anda Cummings.",
+    "No amount for the whipped cream; about 1 cup whipping cream, whipped, is typical."
+   ]
+  },
+  {
+   "id": "163",
+   "title": "5 Cup Salad",
+   "category": "Salads",
+   "format": "Printed recipe card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/163-five-cup-salad.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 C crushed pineapple",
+    "1 C mandarin oranges",
+    "1 C shredded coconut",
+    "1 C sour cream",
+    "1 C miniature marshmallows"
+   ],
+   "steps": [
+    "Mix in order in a large bowl."
+   ],
+   "notes": [],
+   "flags": [
+    "Drain the pineapple and oranges well first."
+   ]
+  },
+  {
+   "id": "164",
+   "title": "Pistachio Green Salad",
+   "category": "Salads",
+   "format": "Handwritten card",
+   "contributor": "Elinor Best",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/164-pistachio-green-salad.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 pkg instant pistachio pudding (dry)",
+    "1 can crushed pineapple (15 oz.)",
+    "1 tub Cool Whip (middle size)",
+    "2 cups tiny marshmallows",
+    "Walnuts (optional)"
+   ],
+   "steps": [
+    "Mix and fold everything together."
+   ],
+   "notes": [
+    "Also known as Watergate salad. Signed \"Elinor Best.\""
+   ],
+   "flags": [
+    "The pineapple is usually added with its juice, which sets the pudding."
+   ]
+  },
+  {
+   "id": "165",
+   "title": "Southern Ambrosia Salad",
+   "category": "Salads",
+   "format": "Handwritten striped card",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/165-southern-ambrosia-salad.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 (8 ounce) tub whipped cream, thawed",
+    "1 cup sour cream",
+    "1 (20 ounce) can pineapple tidbits, drained well",
+    "1 (15 ounce) can mandarin oranges, drained well",
+    "1 cup red seedless grapes, sliced in half",
+    "1 1/2 cups sweetened coconut flakes",
+    "1 1/2 cups mini marshmallows",
+    "1 (10 ounce) jar maraschino cherries, cut in half and drained well"
+   ],
+   "steps": [
+    "Mix together well."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": []
+  },
+  {
+   "id": "166",
+   "title": "24-Hour Salad (partial)",
+   "category": "Salads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/166-24-hour-salad.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 eggs",
+    "1/4 c. sugar",
+    "1/4 c. vinegar",
+    "2 T. butter",
+    "2 c. marshmallows",
+    "2 c. white cherries",
+    "2 c. pineapple",
+    "1 orange",
+    "1/4 c. candied cherries",
+    "1 c. whipping cream"
+   ],
+   "steps": [
+    "Beat the eggs and add the sugar and vinegar.",
+    "Cook over very low heat, or in a double boiler, until thick and smooth.",
+    "Remove… (the card ends here)."
+   ],
+   "notes": [
+    "The usual finish: remove from heat, stir in the butter, cool, fold in the whipped cream, fruit and marshmallows, and chill 24 hours."
+   ],
+   "flags": [
+    "The directions end mid-sentence. If there's a back to this card, it'd be worth a photo."
+   ]
+  },
+  {
+   "id": "167",
+   "title": "Pea Salad",
+   "category": "Salads",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/167-pea-salad.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "Peas, frozen or canned",
+    "Grated cheese",
+    "Grated sweet pickle or sweet relish",
+    "Hard-boiled eggs",
+    "Onion",
+    "Dressing: Miracle Whip, vinegar and mustard"
+   ],
+   "steps": [
+    "Combine the peas, cheese, pickle, eggs and onion.",
+    "Dress with Miracle Whip thinned with a little vinegar and mustard."
+   ],
+   "notes": [],
+   "flags": [
+    "No amounts on the card; mix to taste."
+   ]
+  },
+  {
+   "id": "168",
+   "title": "Roquefort Dressing",
+   "category": "Salads",
+   "format": "Handwritten card",
+   "contributor": "Margarete Boyington",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/168-roquefort-dressing.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 small pkg. blue cheese",
+    "1 1/2 lemons, for juice",
+    "2 qts mayonnaise",
+    "1 t onion salt",
+    "2/3 qt buttermilk",
+    "1 t garlic salt"
+   ],
+   "steps": [
+    "Mix in order and beat well."
+   ],
+   "notes": [
+    "A big batch: nearly 3 quarts. Signed \"Margarete Boyington.\""
+   ],
+   "flags": [
+    "The buttermilk amount reads 2/3 qt."
+   ]
+  },
+  {
+   "id": "169",
+   "title": "Fruit Salad (Jan Vaniman's)",
+   "category": "Salads",
+   "format": "Printed watermelon recipe card, front and back",
+   "contributor": "Jan Vaniman (friend of Vicky's)",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/169-fruit-salad-jan-vaniman-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/169-fruit-salad-jan-vaniman-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 pt frozen strawberries (Vicky uses fresh)",
+    "1 can mandarin orange sections",
+    "1 can pineapple chunks",
+    "1 lb white seedless grapes",
+    "3 bananas",
+    "1 can peach pie filling"
+   ],
+   "steps": [
+    "Drain the juices from the fruit (the oranges and pineapple chunks).",
+    "Add the strawberries and peach pie filling, then blend in the bananas and grapes.",
+    "Chill before serving. Will keep several days."
+   ],
+   "notes": [
+    "\"Vicky Sharp\" is written at the top: Vicky's card, with Jan Vaniman's recipe.",
+    "From the card: if the salad is made the day before, wait to add the bananas until the day it's served."
+   ],
+   "flags": []
+  },
+  {
+   "id": "170",
+   "title": "Lemonade Fruit Tip",
+   "category": "Salads",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/170-fruit-lemonade-tip.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "Pre-sweetened dry lemonade mix",
+    "Cut fruit"
+   ],
+   "steps": [
+    "Sprinkle pre-sweetened dry lemonade mix over cut fruit."
+   ],
+   "notes": [
+    "\"Terrific taste & keeps fruit from turning dark.\""
+   ],
+   "flags": []
+  },
+  {
+   "id": "171",
+   "title": "Three Bean Salad",
+   "category": "Salads",
+   "format": "Newspaper clipping on a card",
+   "contributor": "Newspaper clipping",
+   "yield": "8 servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/171-three-bean-salad.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 1-pound can green beans",
+    "1 1-pound can wax beans",
+    "1 1-pound can kidney beans",
+    "1 small onion, minced",
+    "1 green pepper, minced",
+    "1/2 cup salad oil",
+    "1/2 cup vinegar",
+    "1 teaspoon salt",
+    "1/2 teaspoon pepper",
+    "3/4 cup or less sugar"
+   ],
+   "steps": [
+    "Drain the beans thoroughly. Toss with the onion and green pepper.",
+    "Blend the remaining ingredients, adding as much sugar as desired. Pour over the vegetables.",
+    "Cover and refrigerate several hours or overnight.",
+    "At serving time, drain the salad and serve in lettuce cups."
+   ],
+   "notes": [
+    "Four Bean Salad: add 1 1-pound can garbanzo beans, drained."
    ],
    "flags": []
   }
