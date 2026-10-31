@@ -6901,6 +6901,486 @@
     "One of Tammy's cards (the striped ones are hers)."
    ],
    "flags": []
+  },
+  {
+   "id": "187",
+   "title": "Sugary Sweet Chex Mix",
+   "category": "Appetizers",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/187-sugary-chex-mix-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/187-sugary-chex-mix-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 cup light Karo syrup",
+    "1 1/2 cup sugar",
+    "3 1/2 sticks unsalted butter",
+    "6 cups Corn Chex",
+    "6 cups Rice Chex",
+    "Cooking spray (for your hands)"
+   ],
+   "steps": [
+    "Put the Chex into a large bowl.",
+    "In a medium saucepan, put the syrup, sugar and butter. Heat over medium to high heat, stirring regularly, until dissolved and boiling.",
+    "When boiling, stir constantly for 3 minutes. Remove from heat carefully.",
+    "Pour the mixture over the cereal and stir with a rubber spatula until the cereal is covered.",
+    "To keep it chewy, spread the mixture out on 2 or 3 cookie sheets. Spray your hands with cooking spray so the cereal won't stick while separating.",
+    "Stir every 15 minutes until cooled. Store in a dry space."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers).",
+    "The savory version is No. 186."
+   ],
+   "flags": []
+  },
+  {
+   "id": "188",
+   "title": "Chip Clam Dip",
+   "category": "Appetizers",
+   "format": "Handwritten note (pencil)",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/188-chip-clam-dip.jpg",
+     "label": "Note"
+    }
+   ],
+   "ingredients": [
+    "Cream cheese",
+    "Clams",
+    "Milk (the note has a \"?\")",
+    "Onion",
+    "Cottage cheese",
+    "Garlic salt or powder"
+   ],
+   "steps": [
+    "Blend everything together until smooth enough to dip chips."
+   ],
+   "notes": [
+    "Just an ingredient list, with \"Chip Clam Dip\" written at the bottom."
+   ],
+   "flags": [
+    "No amounts or directions.",
+    "Something below \"onion\" is scribbled out."
+   ]
+  },
+  {
+   "id": "189",
+   "title": "Salmon Party Ball",
+   "category": "Appetizers",
+   "format": "Printed \"Here's what's cookin'\" card, front and back, plus the original clipping",
+   "contributor": "Brenda Sharp",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/189-salmon-party-ball-front.jpg",
+     "label": "Card front"
+    },
+    {
+     "src": "img/189-salmon-party-ball-back.jpg",
+     "label": "Card back"
+    },
+    {
+     "src": "img/189-salmon-party-ball-clipping.jpg",
+     "label": "The original clipping"
+    }
+   ],
+   "ingredients": [
+    "1 (1 lb.) can salmon (2 cups)",
+    "1 (8 oz) package cream cheese, softened",
+    "1 tablespoon lemon juice",
+    "2 tablespoons grated onion (more if desired)",
+    "1 teaspoon prepared horseradish",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon liquid smoke",
+    "1/2 cup chopped pecans",
+    "3 tablespoons snipped parsley"
+   ],
+   "steps": [
+    "Drain and flake the salmon, removing skin and bones.",
+    "Combine the salmon, cream cheese, lemon juice, onion, horseradish, salt and liquid smoke. Mix thoroughly. Chill several hours.",
+    "Combine the pecans and parsley. Shape the salmon mixture into a ball and roll in the nut mixture.",
+    "Chill well. Serve with assorted crackers."
+   ],
+   "notes": [
+    "\"Recipe from: Brenda Sharp.\" The newspaper clipping it came from is in the box too."
+   ],
+   "flags": []
+  },
+  {
+   "id": "190",
+   "title": "Cheese Ball (Vi Sharp's)",
+   "category": "Appetizers",
+   "format": "Two cards: \"Here's what's cookin'\" card and printed recipe card",
+   "contributor": "Violet Sharp (Grandma Sharp)",
+   "yield": "About 2 baseball-size balls",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/190-cheese-ball-vi-sharp.jpg",
+     "label": "Vi Sharp's card"
+    },
+    {
+     "src": "img/190-cheese-ball-tupperware.jpg",
+     "label": "Second copy, from a Tupperware demonstrator"
+    }
+   ],
+   "ingredients": [
+    "2 large pkg cream cheese",
+    "1 small wedge blue cheese (Roquefort)",
+    "1/2 glass Old English, cheddar or pineapple cheese spread",
+    "1 tsp A-1 sauce",
+    "Onion salt and garlic salt",
+    "Chopped pecans and parsley flakes, for rolling"
+   ],
+   "steps": [
+    "Add the onion salt and garlic salt to the cheeses and A-1 and mix well with a fork.",
+    "Roll into two baseball-size balls.",
+    "Roll in chopped pecans and parsley flakes.",
+    "Refrigerate. Can be frozen."
+   ],
+   "notes": [
+    "\"Recipe from the kitchen of: Vi Sharp.\" Makes about 2 baseball-size balls.",
+    "A second copy says it came from a Tupperware demonstrator.",
+    "Different from the Cheese Ball (No. 001) from Edi Dobbins."
+   ],
+   "flags": []
+  },
+  {
+   "id": "191",
+   "title": "Tortilla Chip Dip (7 Layer Dip)",
+   "category": "Appetizers",
+   "format": "Printed \"Here's what's cookin'\" card",
+   "contributor": "Erica Brooks",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/191-tortilla-chip-dip.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "Refried beans",
+    "Guacamole dip",
+    "Sour cream",
+    "Salsa",
+    "Grated cheese",
+    "Chopped lettuce (the card has a \"?\")",
+    "Hamburger, fried and crumbled",
+    "Tomatoes"
+   ],
+   "steps": [
+    "Layer in a dish or pan.",
+    "Serve with tortilla chips."
+   ],
+   "notes": [],
+   "flags": [
+    "The contributor's name reads Erica Brooks.",
+    "No amounts on the card."
+   ]
+  },
+  {
+   "id": "192",
+   "title": "Sliced Baked Potatoes",
+   "category": "Sides",
+   "format": "Handwritten striped card, front and back",
+   "contributor": "Tammy Jones",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/192-sliced-baked-potatoes-front.jpg",
+     "label": "Front"
+    },
+    {
+     "src": "img/192-sliced-baked-potatoes-back.jpg",
+     "label": "Back"
+    }
+   ],
+   "ingredients": [
+    "5 or 6 potatoes",
+    "4 tbls butter, melted",
+    "4 green onions, chopped",
+    "1 cup grated cheddar cheese",
+    "5 or 6 strips of bacon",
+    "Sour cream (optional)"
+   ],
+   "steps": [
+    "Heat oven to 400°. Slice the potatoes 1/4 inch thick and place on a foiled cookie sheet.",
+    "Brush both sides with melted butter. Bake 30 to 40 minutes, turning once.",
+    "Remove from the oven. Cover with cheddar cheese, bacon and green onion.",
+    "Place back in the oven until the cheese is melted.",
+    "Remove from oven. Add sour cream if desired."
+   ],
+   "notes": [
+    "One of Tammy's cards (the striped ones are hers)."
+   ],
+   "flags": [
+    "The back (a green card) turned up separately; matched by the handwriting and the last step."
+   ]
+  },
+  {
+   "id": "193",
+   "title": "Zucchini Casserole",
+   "category": "Sides",
+   "format": "Typed sheet",
+   "contributor": "American Diabetes Association recipe sheet",
+   "yield": "4 half-cup servings",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/193-zucchini-casserole.jpg",
+     "label": "Sheet"
+    }
+   ],
+   "ingredients": [
+    "1 large zucchini (1 lb), sliced",
+    "1 medium onion, chopped",
+    "1/2 tsp dried oregano leaves",
+    "1/2 tsp dried basil leaves",
+    "2 Tbsp vegetable oil",
+    "2 cloves garlic, minced",
+    "1 egg",
+    "1 Tbsp fresh minced parsley",
+    "1/4 cup grated Parmesan or Romano cheese",
+    "1/8 tsp ground white pepper"
+   ],
+   "steps": [
+    "Sauté the zucchini, onion, garlic, oregano and basil in the oil until the zucchini is tender.",
+    "Spoon into a lightly oiled casserole dish.",
+    "Combine the remaining ingredients and pour over the zucchini.",
+    "Bake at 350° for 15 to 20 minutes, or until browned. Let stand 5 minutes before serving."
+   ],
+   "notes": [
+    "Exchanges: 1 vegetable, 2 fats. Same typed style as the Medley Vegetable Soup (No. 182)."
+   ],
+   "flags": []
+  },
+  {
+   "id": "194",
+   "title": "Cheesy Baked Macaroni",
+   "category": "Sides",
+   "format": "Printed clipping (Kraft)",
+   "contributor": "Kraft",
+   "yield": "4 servings",
+   "time": "Prep 15 min, bake 20 min",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/194-cheesy-baked-macaroni.jpg",
+     "label": "Clipping"
+    }
+   ],
+   "ingredients": [
+    "1/2 lb. Kraft Deluxe Pasteurized Process American Cheese, cubed",
+    "1/4 cup milk",
+    "1 cup (3 1/2 oz.) elbow macaroni, cooked and drained",
+    "Dash pepper"
+   ],
+   "steps": [
+    "Heat oven to 350°F.",
+    "Stir the cheese and milk in a saucepan on low heat until smooth.",
+    "Stir in the macaroni and pepper. Spoon into a 1-quart casserole.",
+    "Bake 20 minutes."
+   ],
+   "notes": [],
+   "flags": []
+  },
+  {
+   "id": "195",
+   "title": "Drop Doughnuts",
+   "category": "Breads",
+   "format": "Handwritten card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/195-drop-doughnuts.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 1/2 C flour",
+    "1/2 C sugar",
+    "Salt",
+    "2 t baking powder",
+    "1/4 t cinnamon",
+    "1 egg",
+    "1/2 C milk, plus a little more",
+    "2 T shortening"
+   ],
+   "steps": [
+    "Mix the flour, sugar, salt, baking powder and cinnamon.",
+    "Combine the egg, milk and shortening.",
+    "Add the wet to the dry and mix.",
+    "Drop by teaspoons into hot grease, about 360°, until golden brown."
+   ],
+   "notes": [
+    "\"1/4 t cinnamon\" is written in darker ink over the original spice line, which may have been nutmeg."
+   ],
+   "flags": [
+    "The salt amount is under a stain; about 1/2 tsp is typical.",
+    "The card is faded; the amounts are best readings."
+   ]
+  },
+  {
+   "id": "196",
+   "title": "Chex Party Mix (1981 Original)",
+   "category": "Appetizers",
+   "format": "Cut from a cereal box (Ralston Purina, 1981)",
+   "contributor": "Ralston Purina (Chex box, 1981)",
+   "yield": "About 9 cups",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/196-chex-party-mix-1981.jpg",
+     "label": "Box panel"
+    }
+   ],
+   "ingredients": [
+    "1/2 cup margarine or butter",
+    "1 1/4 teaspoons seasoned salt",
+    "4 1/2 teaspoons Worcestershire sauce",
+    "2 cups Corn Chex cereal",
+    "2 cups Rice Chex cereal",
+    "2 cups Bran Chex cereal",
+    "2 cups Wheat Chex cereal",
+    "1 cup salted mixed nuts and/or pretzel sticks"
+   ],
+   "steps": [
+    "Preheat oven to 250°.",
+    "Heat the margarine in a large shallow roasting pan (about 15 x 10 x 2 inch) in the oven until melted. Remove.",
+    "Stir in the seasoned salt and Worcestershire sauce. Add the Chex cereal and nuts, and mix until all pieces are coated.",
+    "Heat in the oven 1 hour, stirring every 15 minutes.",
+    "Spread on absorbent paper to cool."
+   ],
+   "notes": [
+    "\"Is this the Christmas you finally make enough Chex Party Mix?\" From a 1981 Chex box.",
+    "Chex Party Mix may be frozen, so make a double batch. Thaw at room temperature in the container it was stored in.",
+    "Tammy's version is No. 186."
+   ],
+   "flags": []
+  },
+  {
+   "id": "197",
+   "title": "Egg Color Solution",
+   "category": "Crafts & Other",
+   "format": "Handwritten note",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/197-egg-color-solution.jpg",
+     "label": "Note"
+    }
+   ],
+   "ingredients": [
+    "3 tablespoons vinegar per color",
+    "Food coloring kit",
+    "1/2 cup cold water"
+   ],
+   "steps": [
+    "Mix the vinegar and food color first, then add the water.",
+    "Use as many food coloring drops as needed."
+   ],
+   "notes": [
+    "For dyeing Easter eggs."
+   ],
+   "flags": []
+  },
+  {
+   "id": "198",
+   "title": "Play Dough",
+   "category": "Crafts & Other",
+   "format": "Printed recipe card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/198-play-dough.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "1 cup flour",
+    "1 cup water",
+    "1/2 cup salt",
+    "2 teaspoons cream of tartar (do not omit)",
+    "1 T cooking oil",
+    "Food coloring"
+   ],
+   "steps": [
+    "Combine and mix all the dry ingredients.",
+    "Add the water slowly, then the oil and food coloring.",
+    "Cook for 3 minutes, or until the mixture forms a ball.",
+    "Knead as soon as possible.",
+    "Keep in an airtight container."
+   ],
+   "notes": [
+    "Homemade play dough for kids. Not for eating."
+   ],
+   "flags": []
+  },
+  {
+   "id": "199",
+   "title": "Coal Plant (Crystal Garden)",
+   "category": "Crafts & Other",
+   "format": "Handwritten note card",
+   "contributor": "",
+   "yield": "",
+   "time": "",
+   "date": "",
+   "photos": [
+    {
+     "src": "img/199-coal-plant.jpg",
+     "label": "Card"
+    }
+   ],
+   "ingredients": [
+    "2 or 3 lumps of coal or charcoal",
+    "9 tablespoons salt, in three additions",
+    "9 tablespoons water, in three additions",
+    "1 tablespoon bluing",
+    "1 drop of Mercurochrome"
+   ],
+   "steps": [
+    "Place the coal or charcoal in a small dish or pan. Sprinkle with 3 tablespoons salt, 3 tablespoons water and 1 tablespoon bluing.",
+    "Next morning, add 3 tablespoons salt and 3 tablespoons water.",
+    "The third morning, add 3 more tablespoons salt, 3 tablespoons water and 1 drop of Mercurochrome.",
+    "The \"plant\" should begin to grow in about 1 week. As the moisture evaporates, add more sprinkles of water."
+   ],
+   "notes": [
+    "An old-fashioned crystal garden, not food. The crystals grow up out of the coal.",
+    "Mercurochrome contained mercury and isn't sold in the US anymore; a drop of food coloring gives the color instead. Keep bluing away from kids and pets."
+   ],
+   "flags": []
   }
  ]
 }
