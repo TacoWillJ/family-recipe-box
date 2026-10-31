@@ -6655,32 +6655,30 @@
    "category": "Sides",
    "format": "Handwritten card",
    "contributor": "",
-   "yield": "",
+   "yield": "4 or 5 people",
    "time": "",
    "date": "",
    "photos": [
     {
      "src": "img/180-french-fries.jpg",
-     "label": "Card (blurry)"
+     "label": "Card"
     }
    ],
    "ingredients": [
-    "3 large potatoes, cut in strips",
+    "3 raw potatoes, cut in strips",
     "1 T oil",
     "1 T water"
    ],
    "steps": [
-    "Heat oven to 475°.",
-    "Cut the potatoes in strips and drop them in a bowl with the oil and water.",
-    "Stir the potatoes until well coated.",
-    "Bake about 35 minutes in a hot oven and serve hot."
+    "Set the oven at 475°.",
+    "Cut the raw potatoes in strips.",
+    "Drop them in a bowl containing the oil and water, mixed. Stir the potatoes until well coated.",
+    "Bake for 1/2 hour in the hot oven and serve hot!"
    ],
    "notes": [
     "Will serve 4 or 5 people."
    ],
-   "flags": [
-    "The photo is too blurry to read with confidence; all amounts, the temperature and the time are best guesses. A retake would fix it."
-   ]
+   "flags": []
   },
   {
    "id": "181",
