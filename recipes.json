@@ -6945,41 +6945,46 @@
   },
   {
    "id": "188",
-   "title": "Chip Clam Dip",
+   "title": "Chip Dip (Clam)",
    "category": "Appetizers",
-   "format": "Handwritten note (pencil)",
-   "contributor": "",
+   "format": "Printed \"Here's what's cookin'\" card, plus an earlier pencil note",
+   "contributor": "Violet Sharp (Grandma Sharp)",
    "yield": "",
    "time": "",
    "date": "",
    "photos": [
     {
+     "src": "img/188-chip-dip-clam-vi-sharp.jpg",
+     "label": "Vi Sharp's card (from Vicki)"
+    },
+    {
      "src": "img/188-chip-clam-dip.jpg",
-     "label": "Note"
+     "label": "Pencil note from the box"
     }
    ],
    "ingredients": [
-    "1 (8 oz) package cream cheese, softened",
-    "1 (6.5 oz) can minced clams, drained (save the juice); Tammy leaves these out",
-    "1/2 cup cottage cheese",
-    "1 tablespoon grated onion, or onion powder to taste (Tammy uses powder)",
-    "Garlic salt and/or garlic powder, to taste",
-    "A little milk or reserved clam juice, to thin"
+    "1 pk (8 oz) cream cheese, room temperature",
+    "3 T milk, to soften the cheese",
+    "Garlic powder, onion powder, and garlic & onion salt, to your own taste",
+    "1 small onion, chopped",
+    "1 small carton cottage cheese, mashed",
+    "1 can minced clams, with its juice"
    ],
    "steps": [
-    "Beat the cream cheese and cottage cheese together until smooth (a blender or mixer gets the cottage cheese creamy).",
-    "Stir in the clams, onion and garlic salt.",
-    "Add milk or clam juice a tablespoon at a time until it's thin enough to dip a chip.",
-    "Chill at least an hour so the flavors blend. Serve with potato chips."
+    "Soften the cream cheese with the milk.",
+    "Season with garlic powder, onion powder, and garlic and onion salt to your own taste.",
+    "Mix in the chopped onion and mashed cottage cheese.",
+    "Add the minced clams, using the juice to soften the mixture to the right consistency.",
+    "Refrigerate."
    ],
    "notes": [
-    "The note itself is only a list: cream cheese, clams, milk?, onion, cottage cheese, garlic salt/powder, with \"Chip Clam Dip\" at the bottom.",
-    "The amounts and steps here are a suggested starting point for that list, based on the classic clam dip, not from the note. Adjust to taste.",
-    "Tammy's version leaves out the clams entirely and uses onion powder in place of the onion, so hers is a cream cheese and cottage cheese chip dip. The family isn't sure whether it's garlic salt, garlic powder, or both; Vicki's version is on the way."
+    "\"Recipe from the kitchen of: Vi Sharp.\" Vicki sent a photo of the card; she makes it a lot.",
+    "It answers the garlic question: both, garlic powder and garlic salt, plus onion powder and onion salt, all to taste.",
+    "Tammy's version leaves out the clams and uses onion powder in place of the chopped onion.",
+    "The pencil note in the box is the same recipe as a bare ingredient list."
    ],
    "flags": [
-    "Amounts and directions are filled in, not from the original. Waiting on Vicki's recipe, since she makes it a lot.",
-    "Something below \"onion\" is scribbled out."
+    "The card says \"over\" at the bottom; if there's anything on the back, it'd be worth a photo."
    ]
   },
   {
@@ -7044,14 +7049,19 @@
     {
      "src": "img/190-cheese-ball-tupperware.jpg",
      "label": "Second copy, from a Tupperware demonstrator"
+    },
+    {
+     "src": "img/190-cheese-balls-vicki.jpg",
+     "label": "Third copy with exact amounts (from Vicki)"
     }
    ],
    "ingredients": [
-    "2 large pkg cream cheese",
-    "1 small wedge blue cheese (Roquefort)",
-    "1/2 glass Old English, cheddar or pineapple cheese spread",
+    "2 (8 oz) pkg cream cheese",
+    "1/2 cup blue cheese (Roquefort)",
+    "1/2 cup Old English (cheddar) cheese spread",
     "1 tsp A-1 sauce",
-    "Onion salt and garlic salt",
+    "1 tsp garlic salt",
+    "1 tsp onion salt",
     "Chopped pecans and parsley flakes, for rolling"
    ],
    "steps": [
@@ -7063,7 +7073,8 @@
    "notes": [
     "\"Recipe from the kitchen of: Vi Sharp.\" Makes about 2 baseball-size balls.",
     "A second copy says it came from a Tupperware demonstrator.",
-    "Different from the Cheese Ball (No. 001) from Edi Dobbins."
+    "Different from the Cheese Ball (No. 001) from Edi Dobbins.",
+    "Vicki sent a third copy that spells out the amounts: 1/2 cup each of blue cheese and Old English, and 1 tsp each of A-1, garlic salt and onion salt."
    ],
    "flags": []
   },
